@@ -5,6 +5,7 @@ import * as React from "react";
 import * as RescriptReactRouter from "@rescript/react/src/RescriptReactRouter.bs.js";
 import * as About$RescriptReactWebpackTailwindTemplate from "./About.bs.js";
 import * as NavBar$RescriptReactWebpackTailwindTemplate from "./NavBar.bs.js";
+import * as IconDisplay$RescriptReactWebpackTailwindTemplate from "./IconDisplay/IconDisplay.bs.js";
 
 function string(prim) {
   return prim;
@@ -27,7 +28,7 @@ function App(Props) {
     exit = 1;
   }
   if (exit === 1) {
-    component = React.createElement("div", undefined, "Home");
+    component = React.createElement(IconDisplay$RescriptReactWebpackTailwindTemplate.make, {});
   }
   var match$1 = React.useState(function () {
         return "theme-gray";

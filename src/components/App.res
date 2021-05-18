@@ -1,15 +1,13 @@
 let {string, useState} = module(React)
 
-open Heroicons
-
 @react.component
 let make = () => {
   let url = RescriptReactRouter.useUrl()
 
   let component = switch url.path {
   | list{"about"} => <About />
-  | _ => <div> {"Home"->string} </div>
-  }
+  | _ => <IconDisplay />
+}
 
   let (theme, setTheme) = useState(_ => "theme-gray")
   <div className={j`$theme flex flex-col`}>

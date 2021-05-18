@@ -36,4 +36,12 @@
 			border border-primary_200 bg-primary_100 rounded divide-y divide-primary_200 focus:outline-none
 			right-1 top-6 shadow-lg;
 	}
+
+	.icon {
+		@apply w-6 h-6 text-primary_500;
+	}
+
+	.x-rounded {
+		@apply border border-primary_300 flex flex-row flex-wrap;
+	}
 }

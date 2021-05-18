@@ -2,21 +2,44 @@
 
 import * as React from "react";
 
+function string(prim) {
+  return prim;
+}
+
 function About(Props) {
   return React.createElement("div", {
-              className: "flex flex-col items-center gap-2 text-primary_600"
-            }, React.createElement("h1", {
-                  className: "text-xl"
-                }, "Rescript-React Template with Tailwind"), React.createElement("a", {
-                  className: "block text-primary_800 underline text-lg",
-                  href: "https://github.com/nyinyithann/rescript-react-webpack-tailwind-template",
-                  target: "_blank"
-                }, "GitHub Repo"), React.createElement("div", undefined, React.createElement("pre", undefined, "\n  Installation\n\n- git clone https://github.com/nyinyithann/rescript-react-webpack-tailwind-template.git\n- cd rescript-react-webpack-tailwind-template\n- yarn install\n- yarn watch:res\n- yarn start\n- visit http://0.0.0.0:8080")));
+              className: "flex flex-col gap-2 text-primary_600 font-mono text-center h-full items-center justify-center"
+            }, React.createElement("div", {
+                  className: "-mt-36"
+                }, React.createElement("h1", {
+                      className: "text-base md:text-2xl font-bold"
+                    }, "ReScript binding to Heroicons"), React.createElement("div", {
+                      className: "py-4"
+                    }, React.createElement("a", {
+                          className: "text-primary_800 underline text-base md:text:xl text-center inline",
+                          href: "https://github.com/nyinyithann/rescript-heroicons-demo",
+                          target: "_blank"
+                        }, "GitHub Repo"), React.createElement("span", undefined, " | "), React.createElement("a", {
+                          className: "inline text-primary_800 underline text-base md:text:xl text-center",
+                          href: "https://www.npmjs.com/package/rescript-heroicons",
+                          target: "_blank"
+                        }, "NPM Package")), React.createElement("div", {
+                      className: "p-5 font-sans text-sm md:text-base"
+                    }, React.createElement("p", undefined, React.createElement("span", {
+                              className: "italic font-mono"
+                            }, "Installation"), React.createElement("br", undefined), React.createElement("br", undefined), React.createElement("span", undefined, "yarn add rescript-heroicons"), React.createElement("br", undefined), React.createElement("span", undefined, "Or"), React.createElement("br", undefined), React.createElement("span", undefined, "npm install rescript-heroicons"), React.createElement("span", {
+                              className: "block uppercase drop-shadow-2xl pt-6"
+                            }, "Credit "), React.createElement("span", undefined, React.createElement("a", {
+                                  className: "drop-shadow-2xl underline text-primary_800",
+                                  href: "https://heroicons.com/",
+                                  target: "blank"
+                                }, "Heroicons"))))));
 }
 
 var make = About;
 
 export {
+  string ,
   make ,
   
 }
