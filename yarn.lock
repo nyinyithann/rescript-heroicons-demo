@@ -1008,6 +1008,16 @@
   dependencies:
     purgecss "^3.1.3"
 
+"@headlessui/react@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.2.0.tgz#e48652bfce82ddf73d7f331faeb9db6526ee6874"
+  integrity sha512-19DkLz8gDgbi+WvkoTzi9vs0NK9TJf94vbYhMzB4LYJo03Kili0gmvXT9CiKZoxXZ7YAvy/b1U1oQKEnjWrqxw==
+
+"@heroicons/react@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-1.0.1.tgz#66d25f6441920bd5c2146ea27fd33995885452dd"
+  integrity sha512-uikw2gKCmqnvjVxitecWfFLMOKyL9BTFcU4VM3hHj9OMwpkCr5Ke+MRMyY2/aQVmsYs4VTq7NCFX05MYwAHi3g==
+
 "@most/multicast@^1.2.5":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@most/multicast/-/multicast-1.3.0.tgz"
@@ -5040,6 +5050,11 @@ jest-worker@^26.3.0, jest-worker@^26.6.2:
     merge-stream "^2.0.0"
     supports-color "^7.0.0"
 
+js-array2-ex@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/js-array2-ex/-/js-array2-ex-0.0.2.tgz#f6b0a9708b91edb55423270fce87867841aabb74"
+  integrity sha512-cIlj4/G7EYibBys+hJte6HDNrk2rJ686+pBQZDyBbW1HyaUsYQHQwvZiZUDgzIlFnmjlZ4qt9B5PEWsw0TYlqw==
+
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz"
@@ -7249,6 +7264,11 @@ requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz"
   integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
+
+rescript-heroicons@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/rescript-heroicons/-/rescript-heroicons-0.0.1.tgz#457a3974fc38e893230459a3ac250bd3f5647b4a"
+  integrity sha512-l3T9zWFZ3psvCbiLJ4nTojihYe1gd1nBKMAa2mQZWX8JBXpsSd5Ye5GvHMrbslmRCxd5Fup12F2EARyMasmXPw==
 
 rescript@^9.1.2:
   version "9.1.2"

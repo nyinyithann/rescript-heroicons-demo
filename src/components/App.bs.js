@@ -5,7 +5,6 @@ import * as React from "react";
 import * as RescriptReactRouter from "@rescript/react/src/RescriptReactRouter.bs.js";
 import * as About$RescriptReactWebpackTailwindTemplate from "./About.bs.js";
 import * as NavBar$RescriptReactWebpackTailwindTemplate from "./NavBar.bs.js";
-import * as Greeting$RescriptReactWebpackTailwindTemplate from "./Greeting.bs.js";
 
 function string(prim) {
   return prim;
@@ -28,7 +27,7 @@ function App(Props) {
     exit = 1;
   }
   if (exit === 1) {
-    component = React.createElement(Greeting$RescriptReactWebpackTailwindTemplate.make, {});
+    component = React.createElement("div", undefined, "Home");
   }
   var match$1 = React.useState(function () {
         return "theme-gray";
@@ -38,7 +37,7 @@ function App(Props) {
             }, React.createElement(NavBar$RescriptReactWebpackTailwindTemplate.make, {
                   setTheme: match$1[1]
                 }), React.createElement("div", {
-                  className: "py-20 bg-primary_50 h-screen p-3"
+                  className: "py-20 bg-primary_50 h-screen px-6"
                 }, component));
 }
 
