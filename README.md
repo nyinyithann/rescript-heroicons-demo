@@ -2,7 +2,8 @@
 
 This is the demo app using ReScript Heroicons binding. All heroicons are displayed and can be searched in the app.
 
-<br>
+### Live
+[ReScript-Heroicons Demo](https://rescript-heroicons-demo.vercel.app)
 
 ### ReScript Heroicons Binding 
 GitHub: https://github.com/nyinyithann/rescript-heroicons <br/>
