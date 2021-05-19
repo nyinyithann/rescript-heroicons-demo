@@ -6,6 +6,7 @@ This is the demo app using ReScript Heroicons binding. All heroicons are display
 [ReScript-Heroicons Demo](https://rescript-heroicons-demo.vercel.app)
 
 ### ReScript Heroicons Binding 
+Rescript-Heroicons Binding library itself can be found at: <br/>
 GitHub: https://github.com/nyinyithann/rescript-heroicons <br/>
 NPM Package: https://www.npmjs.com/package/rescript-heroicons
 
