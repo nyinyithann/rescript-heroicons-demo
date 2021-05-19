@@ -37,7 +37,7 @@ let make = (~setTheme) => {
           <HLMenu.Item>
             {_ => {
               <>
-                <div className="flex flex-col">
+                <div className="flex flex-col z-10">
                   <div className="theme-menu-internal-div">
                     {f->map(({color, theme}) => <ColorButton color theme setTheme />)->React.array}
                   </div>

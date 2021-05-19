@@ -15,7 +15,8 @@
 	}
 
 	.theme-btn {
-		@apply p-1 rounded-full h-6 w-6 flex items-center justify-center ring-1 focus:ring-2 hover:ring-2 focus:outline-none;
+		@apply p-1 rounded-full h-6 w-6 flex items-center justify-center
+			ring-1 focus:ring-2 hover:ring-2 focus:outline-none;
 	}
 
 	.theme-menu-opener {
@@ -33,7 +34,8 @@
 
 	.theme-menu-dropdown {
 		@apply flex flex-col origin-top-right absolute mt-4 w-40 p-1
-			border border-primary_200 bg-primary_100 rounded divide-y divide-primary_200 focus:outline-none
+			border border-primary_200 bg-primary_100 rounded divide-y
+			divide-primary_200 focus:outline-none
 			right-1 top-6 shadow-lg;
 	}
 
@@ -41,7 +43,17 @@
 		@apply w-6 h-6 text-primary_500;
 	}
 
-	.x-rounded {
-		@apply border border-primary_300 flex flex-row flex-wrap;
+	.icon-panel-container {
+		@apply flex-1 flex flex-col gap-1;
+	}
+
+	.icon-panel {
+		@apply rounded flex flex-row flex-wrap
+			items-center justify-center flex-1 h-screen p-2 gap-2;
+	}
+
+	.icon-panel-header {
+		@apply border-b-[1px] border-primary_400 block text-base font-serif
+			font-normal text-primary_600 mx-8 md:mx-12;
 	}
 }

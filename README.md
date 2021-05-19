@@ -1,16 +1,25 @@
-## <img src="public/brand/favicon.ico" width="24" height="24" alt="rescript logo"> ReScript-React Webpack Template with Tailwind
+## <img src="public/brand/favicon.ico" width="24" height="24" alt="rescript logo"> Demo App for ReScript Heroicons Binding
 
-Opinionated Boilerplate for ReScript-React with Webpack and TailwindCSS
+This is the demo app using ReScript Heroicons binding. All heroicons are displayed and can be searched in the app.
 
-[DEMO](https://rescript-react-webpack-tailwind-template.vercel.app/
-)
+<br>
 
-### Installation
+### ReScript Heroicons Binding 
+GitHub: https://github.com/nyinyithann/rescript-heroicons <br/>
+NPM Package: https://www.npmjs.com/package/rescript-heroicons
 
-- `git clone https://github.com/nyinyithann/rescript-react-webpack-tailwind-template.git`
-- `cd rescript-react-webpack-tailwind-template`
-- `yarn install`
-- `yarn watch:res`
-- `yarn start`
-- visit http://0.0.0.0:8080
+### <br>Author
+
+Nyi Nyi Than (Jazz)
+
+- LinkedIn: [@nyinyithann](https://www.linkedin.com/in/nyinyithan/)
+- Twitter: [@JazzTuyat](https://twitter.com/JazzTuyat)
+
+### License
+
+MIT
+
+
+   
+
 

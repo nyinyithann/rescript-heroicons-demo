@@ -2,8 +2,8 @@
 
 import * as React from "react";
 import * as RescriptReactRouter from "@rescript/react/src/RescriptReactRouter.bs.js";
-import * as HeroLogo$RescriptReactWebpackTailwindTemplate from "./HeroLogo.bs.js";
-import * as ThemeMenu$RescriptReactWebpackTailwindTemplate from "./ThemeMenu.bs.js";
+import * as HeroLogo$RescriptHeroiconsBindingDemo from "./HeroLogo.bs.js";
+import * as ThemeMenu$RescriptHeroiconsBindingDemo from "./ThemeMenu.bs.js";
 
 function string(prim) {
   return prim;
@@ -12,7 +12,7 @@ function string(prim) {
 function NavBar(Props) {
   var setTheme = Props.setTheme;
   return React.createElement("nav", {
-              className: "bg-primary_100 py-1 fixed inset-x-0 shadow flex-1"
+              className: "bg-primary_100 py-1 fixed inset-x-0 flex-1 z-50"
             }, React.createElement("div", {
                   className: "px-2"
                 }, React.createElement("div", {
@@ -24,7 +24,7 @@ function NavBar(Props) {
                             }, React.createElement("a", {
                                   href: "https://heroicons.com/",
                                   target: "blank"
-                                }, React.createElement(HeroLogo$RescriptReactWebpackTailwindTemplate.make, {}))), React.createElement("div", {
+                                }, React.createElement(HeroLogo$RescriptHeroiconsBindingDemo.make, {}))), React.createElement("div", {
                               className: "flex items-center text-primary_600"
                             }, React.createElement("button", {
                                   className: "navbar-button",
@@ -44,7 +44,7 @@ function NavBar(Props) {
                                       className: "navbar-menu-text"
                                     }, "About")))), React.createElement("div", {
                           className: "flex items-center space-x-2 pr-4 relative"
-                        }, React.createElement(ThemeMenu$RescriptReactWebpackTailwindTemplate.make, {
+                        }, React.createElement(ThemeMenu$RescriptHeroiconsBindingDemo.make, {
                               setTheme: setTheme
                             })))));
 }

@@ -79,7 +79,7 @@ function ThemeMenu(Props) {
                                   children: React.createElement(React$1.Menu.Item, {
                                         children: (function (param) {
                                             return React.createElement(React.Fragment, undefined, React.createElement("div", {
-                                                            className: "flex flex-col"
+                                                            className: "flex flex-col z-10"
                                                           }, React.createElement("div", {
                                                                 className: "theme-menu-internal-div"
                                                               }, f.map(function (param) {

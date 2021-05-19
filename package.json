@@ -1,5 +1,5 @@
 {
-  "name": "rescript-react-webpack-tailwind-template",
+  "name": "rescript-heroicons-binding-demo",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -43,7 +43,7 @@
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^5.7.3"
   },
-  "description": "ReScript React Webpack template with tailwindcss",
+  "description": "Demo for ReScript Heroicons Binding",
   "scripts": {
     "dashboard": "webpack-dashboard -- webpack serve --config build/webpack.js --env env=dev addon=dashboard",
     "eslint": "eslint --config .eslintrc --fix build/*.js build/**/*.js src/*.{js,jsx} src/**/*.{js,jsx}",
@@ -63,6 +63,6 @@
     "js-array2-ex": "^0.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "rescript-heroicons": "^0.0.1"
+    "rescript-heroicons": "^0.0.3"
   }
 }

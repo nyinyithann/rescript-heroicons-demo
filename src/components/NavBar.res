@@ -2,7 +2,7 @@ let {string} = module(React)
 
 @react.component
 let make = (~setTheme) => {
-  <nav className="bg-primary_100 py-1 fixed inset-x-0 shadow flex-1">
+  <nav className="bg-primary_100 py-1 fixed inset-x-0 flex-1 z-50">
     <div className="px-2">
       <div className="flex justify-between items-center">
         <div className="flex space-x-2">

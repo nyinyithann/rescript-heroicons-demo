@@ -3,9 +3,9 @@
 import * as Curry from "rescript/lib/es6/curry.js";
 import * as React from "react";
 import * as RescriptReactRouter from "@rescript/react/src/RescriptReactRouter.bs.js";
-import * as About$RescriptReactWebpackTailwindTemplate from "./About.bs.js";
-import * as NavBar$RescriptReactWebpackTailwindTemplate from "./NavBar.bs.js";
-import * as IconDisplay$RescriptReactWebpackTailwindTemplate from "./IconDisplay/IconDisplay.bs.js";
+import * as About$RescriptHeroiconsBindingDemo from "./About.bs.js";
+import * as NavBar$RescriptHeroiconsBindingDemo from "./NavBar.bs.js";
+import * as IconDisplay$RescriptHeroiconsBindingDemo from "./IconDisplay/IconDisplay.bs.js";
 
 function string(prim) {
   return prim;
@@ -23,22 +23,22 @@ function App(Props) {
   var component;
   var exit = 0;
   if (match && match.hd === "about" && !match.tl) {
-    component = React.createElement(About$RescriptReactWebpackTailwindTemplate.make, {});
+    component = React.createElement(About$RescriptHeroiconsBindingDemo.make, {});
   } else {
     exit = 1;
   }
   if (exit === 1) {
-    component = React.createElement(IconDisplay$RescriptReactWebpackTailwindTemplate.make, {});
+    component = React.createElement(IconDisplay$RescriptHeroiconsBindingDemo.make, {});
   }
   var match$1 = React.useState(function () {
         return "theme-gray";
       });
   return React.createElement("div", {
               className: "" + match$1[0] + " flex flex-col"
-            }, React.createElement(NavBar$RescriptReactWebpackTailwindTemplate.make, {
+            }, React.createElement(NavBar$RescriptHeroiconsBindingDemo.make, {
                   setTheme: match$1[1]
                 }), React.createElement("div", {
-                  className: "py-20 bg-primary_50 h-screen px-6"
+                  className: "py-[56px] bg-primary_50 h-screen px-6"
                 }, component));
 }
 

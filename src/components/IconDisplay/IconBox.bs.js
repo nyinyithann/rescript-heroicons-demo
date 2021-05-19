@@ -6,11 +6,11 @@ function IconBox(Props) {
   var name = Props.name;
   var children = Props.children;
   return React.createElement("div", {
-              className: "flex flex-col items-center justify-center"
+              className: "flex flex-col items-center justify-center w-24"
             }, React.createElement("div", {
-                  className: "border border-primary_200 p-2 h-16 w-24 min-w-24\n            rounded hover:border-2 hover:drop-shadow-lg \n            flex justify-center items-center"
+                  className: "border border-primary_200 p-2 h-16 w-24\n            rounded hover:border-2 hover:drop-shadow-lg \n            flex justify-center items-center"
                 }, children), React.createElement("span", {
-                  className: "font-mono font-thin tracking-tighter text-primary_600 block pt-2 text-[0.7em]"
+                  className: "font-sans tracking-tighter text-primary_600 block pt-2 text-[0.7em]"
                 }, name));
 }
 
