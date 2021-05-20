@@ -6,15 +6,32 @@ function string(prim) {
   return prim;
 }
 
+function About$AuthorLink(Props) {
+  var link = Props.link;
+  var site = Props.site;
+  var title = Props.title;
+  return React.createElement("div", undefined, React.createElement("span", {
+                  className: "text-primary_600"
+                }, site + ":"), React.createElement("a", {
+                  className: "underline hover:cursor-pointer hover:text-primary_600 text-primary_400 pl-2",
+                  href: link,
+                  target: "blank"
+                }, title));
+}
+
+var AuthorLink = {
+  make: About$AuthorLink
+};
+
 function About(Props) {
   return React.createElement("div", {
               className: "flex flex-col gap-2 text-primary_600 font-mono text-center h-full items-center justify-center"
             }, React.createElement("div", {
-                  className: "-mt-36"
+                  className: "-mt-40"
                 }, React.createElement("h1", {
-                      className: "text-base md:text-2xl font-bold"
+                      className: "text-base md:text-2xl font-bold pt-4"
                     }, "ReScript binding to Heroicons"), React.createElement("div", {
-                      className: "py-4"
+                      className: "pt-4"
                     }, React.createElement("a", {
                           className: "text-primary_800 underline text-base md:text:xl text-center inline",
                           href: "https://github.com/nyinyithann/rescript-heroicons-demo",
@@ -24,10 +41,32 @@ function About(Props) {
                           href: "https://www.npmjs.com/package/rescript-heroicons",
                           target: "_blank"
                         }, "NPM Package")), React.createElement("div", {
-                      className: "p-5 font-sans text-sm md:text-base"
+                      className: "pt-2 font-sans text-sm md:text-base"
                     }, React.createElement("p", undefined, React.createElement("span", {
-                              className: "italic font-mono"
-                            }, "Installation"), React.createElement("br", undefined), React.createElement("br", undefined), React.createElement("span", undefined, "yarn add rescript-heroicons"), React.createElement("br", undefined), React.createElement("span", undefined, "Or"), React.createElement("br", undefined), React.createElement("span", undefined, "npm install rescript-heroicons"), React.createElement("span", {
+                              className: "italic font-serifs"
+                            }, "Installation"), React.createElement("br", undefined), React.createElement("span", undefined, "yarn add rescript-heroicons"), React.createElement("br", undefined), React.createElement("span", undefined, "Or"), React.createElement("br", undefined), React.createElement("span", undefined, "npm install rescript-heroicons"), React.createElement("div", {
+                              className: "flex flex-col justify-center items-center font-sans font-normal text-[0.7em] mt-4 pt-2 border-t border-primary_200"
+                            }, React.createElement("div", {
+                                  className: "w-24 h-24 relative"
+                                }, React.createElement("img", {
+                                      className: "w-full h-full rounded-full border-4 border-primary_300",
+                                      alt: "mygithub",
+                                      src: "https://avatars.githubusercontent.com/u/156037"
+                                    }), React.createElement("span", {
+                                      className: "bg-primary_900 rounded-full text-xs text-primary_200 p-1 absolute right-1 -top-1 border-2 border-primary_300"
+                                    }, "By")), React.createElement(About$AuthorLink, {
+                                  link: "https://github.com/nyinyithann",
+                                  site: "GitHub",
+                                  title: "@nyinyithann"
+                                }), React.createElement(About$AuthorLink, {
+                                  link: "https://www.linkedin.com/in/nyinyithan/",
+                                  site: "LinkedIn",
+                                  title: "@nyinyithann"
+                                }), React.createElement(About$AuthorLink, {
+                                  link: "https://twitter.com/JazzTuyat",
+                                  site: "Twitter",
+                                  title: "@JazzTuyat"
+                                })), React.createElement("span", {
                               className: "block uppercase drop-shadow-2xl pt-6"
                             }, "Credit "), React.createElement("span", undefined, React.createElement("a", {
                                   className: "drop-shadow-2xl underline text-primary_800",
@@ -40,6 +79,7 @@ var make = About;
 
 export {
   string ,
+  AuthorLink ,
   make ,
   
 }
