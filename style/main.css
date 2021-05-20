@@ -53,7 +53,7 @@
 	}
 
 	.icon-panel-header {
-		@apply border-b-[1px] border-primary_400 block text-base font-serif
+		@apply border-b-[1px] border-primary_200 block text-base font-serif
 			font-normal text-primary_600 mx-8 md:mx-12;
 	}
 }

@@ -10,7 +10,7 @@ function NotFound(Props) {
                   className: "h-20 w-20  text-primary_300"
                 }), React.createElement("span", {
                   className: "block text-primary_300"
-                }, "Sorry! There are no icons."));
+                }, "Sorry! No icons found."));
 }
 
 var make = NotFound;

@@ -7,6 +7,7 @@ import * as IconBox$RescriptHeroiconsBindingDemo from "./IconBox.bs.js";
 
 var academicCapIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "AcademicCap",
+      type_: "Solid",
       children: React.createElement(Solid.AcademicCapIcon, {
             className: "icon"
           }),
@@ -15,6 +16,7 @@ var academicCapIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var adjustmentsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Adjustments",
+      type_: "Solid",
       children: React.createElement(Solid.AdjustmentsIcon, {
             className: "icon"
           }),
@@ -23,6 +25,7 @@ var adjustmentsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var annotationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Annotation",
+      type_: "Solid",
       children: React.createElement(Solid.AnnotationIcon, {
             className: "icon"
           }),
@@ -31,6 +34,7 @@ var annotationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var archiveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Archive",
+      type_: "Solid",
       children: React.createElement(Solid.ArchiveIcon, {
             className: "icon"
           }),
@@ -39,6 +43,7 @@ var archiveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var arrowCircleDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleDown",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowCircleDownIcon, {
             className: "icon"
           }),
@@ -47,6 +52,7 @@ var arrowCircleDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowCircleLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowCircleLeftIcon, {
             className: "icon"
           }),
@@ -55,6 +61,7 @@ var arrowCircleLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowCircleRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleRight",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowCircleRightIcon, {
             className: "icon"
           }),
@@ -63,6 +70,7 @@ var arrowCircleRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBi
 
 var arrowCircleUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleUp",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowCircleUpIcon, {
             className: "icon"
           }),
@@ -71,6 +79,7 @@ var arrowCircleUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var arrowDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowDown",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowDownIcon, {
             className: "icon"
           }),
@@ -79,6 +88,7 @@ var arrowDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var arrowLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowLeftIcon, {
             className: "icon"
           }),
@@ -87,6 +97,7 @@ var arrowLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var arrowNarrowDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowDown",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowNarrowDownIcon, {
             className: "icon"
           }),
@@ -95,6 +106,7 @@ var arrowNarrowDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowNarrowLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowNarrowLeftIcon, {
             className: "icon"
           }),
@@ -103,6 +115,7 @@ var arrowNarrowLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowNarrowRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowRight",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowNarrowRightIcon, {
             className: "icon"
           }),
@@ -111,6 +124,7 @@ var arrowNarrowRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBi
 
 var arrowNarrowUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowUp",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowNarrowUpIcon, {
             className: "icon"
           }),
@@ -119,6 +133,7 @@ var arrowNarrowUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var arrowRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowRight",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowRightIcon, {
             className: "icon"
           }),
@@ -127,6 +142,7 @@ var arrowRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var arrowSmDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmDown",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowSmDownIcon, {
             className: "icon"
           }),
@@ -135,6 +151,7 @@ var arrowSmDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var arrowSmLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowSmLeftIcon, {
             className: "icon"
           }),
@@ -143,6 +160,7 @@ var arrowSmLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var arrowSmRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmRight",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowSmRightIcon, {
             className: "icon"
           }),
@@ -151,6 +169,7 @@ var arrowSmRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var arrowSmUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmUp",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowSmUpIcon, {
             className: "icon"
           }),
@@ -159,6 +178,7 @@ var arrowSmUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var arrowUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowUp",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowUpIcon, {
             className: "icon"
           }),
@@ -167,6 +187,7 @@ var arrowUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var arrowsExpandIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowsExpand",
+      type_: "Solid",
       children: React.createElement(Solid.ArrowsExpandIcon, {
             className: "icon"
           }),
@@ -175,6 +196,7 @@ var arrowsExpandIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var atSymbolIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "AtSymbol",
+      type_: "Solid",
       children: React.createElement(Solid.AtSymbolIcon, {
             className: "icon"
           }),
@@ -183,6 +205,7 @@ var atSymbolIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var backspaceIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Backspace",
+      type_: "Solid",
       children: React.createElement(Solid.BackspaceIcon, {
             className: "icon"
           }),
@@ -191,6 +214,7 @@ var backspaceIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var badgeCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BadgeCheck",
+      type_: "Solid",
       children: React.createElement(Solid.BadgeCheckIcon, {
             className: "icon"
           }),
@@ -199,6 +223,7 @@ var badgeCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var banIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Ban",
+      type_: "Solid",
       children: React.createElement(Solid.BanIcon, {
             className: "icon"
           }),
@@ -207,6 +232,7 @@ var banIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var beakerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Beaker",
+      type_: "Solid",
       children: React.createElement(Solid.BeakerIcon, {
             className: "icon"
           }),
@@ -215,6 +241,7 @@ var beakerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var bellIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Bell",
+      type_: "Solid",
       children: React.createElement(Solid.BellIcon, {
             className: "icon"
           }),
@@ -223,6 +250,7 @@ var bellIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var bookOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BookOpen",
+      type_: "Solid",
       children: React.createElement(Solid.BookOpenIcon, {
             className: "icon"
           }),
@@ -231,6 +259,7 @@ var bookOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var bookmarkAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BookmarkAlt",
+      type_: "Solid",
       children: React.createElement(Solid.BookmarkAltIcon, {
             className: "icon"
           }),
@@ -239,6 +268,7 @@ var bookmarkAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var bookmarkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Bookmark",
+      type_: "Solid",
       children: React.createElement(Solid.BookmarkIcon, {
             className: "icon"
           }),
@@ -247,6 +277,7 @@ var bookmarkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var briefcaseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Briefcase",
+      type_: "Solid",
       children: React.createElement(Solid.BriefcaseIcon, {
             className: "icon"
           }),
@@ -255,6 +286,7 @@ var briefcaseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var cakeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cake",
+      type_: "Solid",
       children: React.createElement(Solid.CakeIcon, {
             className: "icon"
           }),
@@ -263,6 +295,7 @@ var cakeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var calculatorIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Calculator",
+      type_: "Solid",
       children: React.createElement(Solid.CalculatorIcon, {
             className: "icon"
           }),
@@ -271,6 +304,7 @@ var calculatorIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var calendarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Calendar",
+      type_: "Solid",
       children: React.createElement(Solid.CalendarIcon, {
             className: "icon"
           }),
@@ -279,6 +313,7 @@ var calendarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var cameraIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Camera",
+      type_: "Solid",
       children: React.createElement(Solid.CameraIcon, {
             className: "icon"
           }),
@@ -287,6 +322,7 @@ var cameraIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var cashIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cash",
+      type_: "Solid",
       children: React.createElement(Solid.CashIcon, {
             className: "icon"
           }),
@@ -295,6 +331,7 @@ var cashIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var chartBarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartBar",
+      type_: "Solid",
       children: React.createElement(Solid.ChartBarIcon, {
             className: "icon"
           }),
@@ -303,6 +340,7 @@ var chartBarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var chartPieIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartPie",
+      type_: "Solid",
       children: React.createElement(Solid.ChartPieIcon, {
             className: "icon"
           }),
@@ -311,6 +349,7 @@ var chartPieIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var chartSquareBarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartSquareBar",
+      type_: "Solid",
       children: React.createElement(Solid.ChartSquareBarIcon, {
             className: "icon"
           }),
@@ -319,6 +358,7 @@ var chartSquareBarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var chatAlt2Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChatAlt2",
+      type_: "Solid",
       children: React.createElement(Solid.ChatAlt2Icon, {
             className: "icon"
           }),
@@ -327,6 +367,7 @@ var chatAlt2Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var chatAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChatAlt",
+      type_: "Solid",
       children: React.createElement(Solid.ChatAltIcon, {
             className: "icon"
           }),
@@ -335,6 +376,7 @@ var chatAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var chatIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Chat",
+      type_: "Solid",
       children: React.createElement(Solid.ChatIcon, {
             className: "icon"
           }),
@@ -343,6 +385,7 @@ var chatIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var checkCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CheckCircle",
+      type_: "Solid",
       children: React.createElement(Solid.CheckCircleIcon, {
             className: "icon"
           }),
@@ -351,6 +394,7 @@ var checkCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var checkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Check",
+      type_: "Solid",
       children: React.createElement(Solid.CheckIcon, {
             className: "icon"
           }),
@@ -359,6 +403,7 @@ var checkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var chevronDoubleDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleDown",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronDoubleDownIcon, {
             className: "icon"
           }),
@@ -367,6 +412,7 @@ var chevronDoubleDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var chevronDoubleLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronDoubleLeftIcon, {
             className: "icon"
           }),
@@ -375,6 +421,7 @@ var chevronDoubleLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var chevronDoubleRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleRight",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronDoubleRightIcon, {
             className: "icon"
           }),
@@ -383,6 +430,7 @@ var chevronDoubleRightIcon_Solid = React.createElement(IconBox$RescriptHeroicons
 
 var chevronDoubleUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleUp",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronDoubleUpIcon, {
             className: "icon"
           }),
@@ -391,6 +439,7 @@ var chevronDoubleUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var chevronDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDown",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronDownIcon, {
             className: "icon"
           }),
@@ -399,6 +448,7 @@ var chevronDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var chevronLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronLeft",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronLeftIcon, {
             className: "icon"
           }),
@@ -407,6 +457,7 @@ var chevronLeftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var chevronRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronRight",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronRightIcon, {
             className: "icon"
           }),
@@ -415,6 +466,7 @@ var chevronRightIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var chevronUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronUp",
+      type_: "Solid",
       children: React.createElement(Solid.ChevronUpIcon, {
             className: "icon"
           }),
@@ -423,6 +475,7 @@ var chevronUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var chipIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Chip",
+      type_: "Solid",
       children: React.createElement(Solid.ChipIcon, {
             className: "icon"
           }),
@@ -431,6 +484,7 @@ var chipIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var clipboardCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardCheck",
+      type_: "Solid",
       children: React.createElement(Solid.ClipboardCheckIcon, {
             className: "icon"
           }),
@@ -439,6 +493,7 @@ var clipboardCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var clipboardCopyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardCopy",
+      type_: "Solid",
       children: React.createElement(Solid.ClipboardCopyIcon, {
             className: "icon"
           }),
@@ -447,6 +502,7 @@ var clipboardCopyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var clipboardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Clipboard",
+      type_: "Solid",
       children: React.createElement(Solid.ClipboardIcon, {
             className: "icon"
           }),
@@ -455,6 +511,7 @@ var clipboardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var clipboardListIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardList",
+      type_: "Solid",
       children: React.createElement(Solid.ClipboardListIcon, {
             className: "icon"
           }),
@@ -463,6 +520,7 @@ var clipboardListIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var clockIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Clock",
+      type_: "Solid",
       children: React.createElement(Solid.ClockIcon, {
             className: "icon"
           }),
@@ -471,6 +529,7 @@ var clockIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var cloudDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CloudDownload",
+      type_: "Solid",
       children: React.createElement(Solid.CloudDownloadIcon, {
             className: "icon"
           }),
@@ -479,6 +538,7 @@ var cloudDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var cloudIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cloud",
+      type_: "Solid",
       children: React.createElement(Solid.CloudIcon, {
             className: "icon"
           }),
@@ -487,6 +547,7 @@ var cloudIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var cloudUploadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CloudUpload",
+      type_: "Solid",
       children: React.createElement(Solid.CloudUploadIcon, {
             className: "icon"
           }),
@@ -495,6 +556,7 @@ var cloudUploadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var codeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Code",
+      type_: "Solid",
       children: React.createElement(Solid.CodeIcon, {
             className: "icon"
           }),
@@ -503,6 +565,7 @@ var codeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var cogIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cog",
+      type_: "Solid",
       children: React.createElement(Solid.CogIcon, {
             className: "icon"
           }),
@@ -511,6 +574,7 @@ var cogIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var collectionIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Collection",
+      type_: "Solid",
       children: React.createElement(Solid.CollectionIcon, {
             className: "icon"
           }),
@@ -519,6 +583,7 @@ var collectionIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var colorSwatchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ColorSwatch",
+      type_: "Solid",
       children: React.createElement(Solid.ColorSwatchIcon, {
             className: "icon"
           }),
@@ -527,6 +592,7 @@ var colorSwatchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var creditCardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CreditCard",
+      type_: "Solid",
       children: React.createElement(Solid.CreditCardIcon, {
             className: "icon"
           }),
@@ -535,6 +601,7 @@ var creditCardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var cubeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cube",
+      type_: "Solid",
       children: React.createElement(Solid.CubeIcon, {
             className: "icon"
           }),
@@ -543,6 +610,7 @@ var cubeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var cubeTransparentIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CubeTransparent",
+      type_: "Solid",
       children: React.createElement(Solid.CubeTransparentIcon, {
             className: "icon"
           }),
@@ -551,6 +619,7 @@ var cubeTransparentIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var currencyBangladeshiIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyBangladeshi",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyBangladeshiIcon, {
             className: "icon"
           }),
@@ -559,6 +628,7 @@ var currencyBangladeshiIcon_Solid = React.createElement(IconBox$RescriptHeroicon
 
 var currencyDollarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyDollar",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyDollarIcon, {
             className: "icon"
           }),
@@ -567,6 +637,7 @@ var currencyDollarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var currencyEuroIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyEuro",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyEuroIcon, {
             className: "icon"
           }),
@@ -575,6 +646,7 @@ var currencyEuroIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var currencyPoundIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyPound",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyPoundIcon, {
             className: "icon"
           }),
@@ -583,6 +655,7 @@ var currencyPoundIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var currencyRupeeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyRupee",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyRupeeIcon, {
             className: "icon"
           }),
@@ -591,6 +664,7 @@ var currencyRupeeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var currencyYenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyYen",
+      type_: "Solid",
       children: React.createElement(Solid.CurrencyYenIcon, {
             className: "icon"
           }),
@@ -599,6 +673,7 @@ var currencyYenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var cursorClickIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CursorClick",
+      type_: "Solid",
       children: React.createElement(Solid.CursorClickIcon, {
             className: "icon"
           }),
@@ -607,6 +682,7 @@ var cursorClickIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var databaseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Database",
+      type_: "Solid",
       children: React.createElement(Solid.DatabaseIcon, {
             className: "icon"
           }),
@@ -615,6 +691,7 @@ var databaseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var desktopComputerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DesktopComputer",
+      type_: "Solid",
       children: React.createElement(Solid.DesktopComputerIcon, {
             className: "icon"
           }),
@@ -623,6 +700,7 @@ var desktopComputerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var deviceMobileIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DeviceMobile",
+      type_: "Solid",
       children: React.createElement(Solid.DeviceMobileIcon, {
             className: "icon"
           }),
@@ -631,6 +709,7 @@ var deviceMobileIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var deviceTabletIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DeviceTablet",
+      type_: "Solid",
       children: React.createElement(Solid.DeviceTabletIcon, {
             className: "icon"
           }),
@@ -639,6 +718,7 @@ var deviceTabletIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var documentAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentAdd",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentAddIcon, {
             className: "icon"
           }),
@@ -647,6 +727,7 @@ var documentAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var documentDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentDownload",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentDownloadIcon, {
             className: "icon"
           }),
@@ -655,6 +736,7 @@ var documentDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBi
 
 var documentDuplicateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentDuplicate",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentDuplicateIcon, {
             className: "icon"
           }),
@@ -663,6 +745,7 @@ var documentDuplicateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var documentIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Document",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentIcon, {
             className: "icon"
           }),
@@ -671,6 +754,7 @@ var documentIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var documentRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentRemove",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentRemoveIcon, {
             className: "icon"
           }),
@@ -679,6 +763,7 @@ var documentRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var documentReportIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentReport",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentReportIcon, {
             className: "icon"
           }),
@@ -687,6 +772,7 @@ var documentReportIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var documentSearchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentSearch",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentSearchIcon, {
             className: "icon"
           }),
@@ -695,6 +781,7 @@ var documentSearchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var documentTextIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentText",
+      type_: "Solid",
       children: React.createElement(Solid.DocumentTextIcon, {
             className: "icon"
           }),
@@ -703,6 +790,7 @@ var documentTextIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var dotsCircleHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsCircleHorizontal",
+      type_: "Solid",
       children: React.createElement(Solid.DotsCircleHorizontalIcon, {
             className: "icon"
           }),
@@ -711,6 +799,7 @@ var dotsCircleHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroico
 
 var dotsHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsHorizontal",
+      type_: "Solid",
       children: React.createElement(Solid.DotsHorizontalIcon, {
             className: "icon"
           }),
@@ -719,6 +808,7 @@ var dotsHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var dotsVerticalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsVertical",
+      type_: "Solid",
       children: React.createElement(Solid.DotsVerticalIcon, {
             className: "icon"
           }),
@@ -727,6 +817,7 @@ var dotsVerticalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var downloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Download",
+      type_: "Solid",
       children: React.createElement(Solid.DownloadIcon, {
             className: "icon"
           }),
@@ -735,6 +826,7 @@ var downloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var duplicateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Duplicate",
+      type_: "Solid",
       children: React.createElement(Solid.DuplicateIcon, {
             className: "icon"
           }),
@@ -743,6 +835,7 @@ var duplicateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var emojiHappyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EmojiHappy",
+      type_: "Solid",
       children: React.createElement(Solid.EmojiHappyIcon, {
             className: "icon"
           }),
@@ -751,6 +844,7 @@ var emojiHappyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var emojiSadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EmojiSad",
+      type_: "Solid",
       children: React.createElement(Solid.EmojiSadIcon, {
             className: "icon"
           }),
@@ -759,6 +853,7 @@ var emojiSadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var exclamationCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ExclamationCircle",
+      type_: "Solid",
       children: React.createElement(Solid.ExclamationCircleIcon, {
             className: "icon"
           }),
@@ -767,6 +862,7 @@ var exclamationCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var exclamationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Exclamation",
+      type_: "Solid",
       children: React.createElement(Solid.ExclamationIcon, {
             className: "icon"
           }),
@@ -775,6 +871,7 @@ var exclamationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var externalLinkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ExternalLink",
+      type_: "Solid",
       children: React.createElement(Solid.ExternalLinkIcon, {
             className: "icon"
           }),
@@ -783,6 +880,7 @@ var externalLinkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var eyeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Eye",
+      type_: "Solid",
       children: React.createElement(Solid.EyeIcon, {
             className: "icon"
           }),
@@ -791,6 +889,7 @@ var eyeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var eyeOffIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EyeOff",
+      type_: "Solid",
       children: React.createElement(Solid.EyeOffIcon, {
             className: "icon"
           }),
@@ -799,6 +898,7 @@ var eyeOffIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var fastForwardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FastForward",
+      type_: "Solid",
       children: React.createElement(Solid.FastForwardIcon, {
             className: "icon"
           }),
@@ -807,6 +907,7 @@ var fastForwardIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var filmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Film",
+      type_: "Solid",
       children: React.createElement(Solid.FilmIcon, {
             className: "icon"
           }),
@@ -815,6 +916,7 @@ var filmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var filterIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Filter",
+      type_: "Solid",
       children: React.createElement(Solid.FilterIcon, {
             className: "icon"
           }),
@@ -823,6 +925,7 @@ var filterIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var fingerPrintIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FingerPrint",
+      type_: "Solid",
       children: React.createElement(Solid.FingerPrintIcon, {
             className: "icon"
           }),
@@ -831,6 +934,7 @@ var fingerPrintIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var fireIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Fire",
+      type_: "Solid",
       children: React.createElement(Solid.FireIcon, {
             className: "icon"
           }),
@@ -839,6 +943,7 @@ var fireIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var flagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Flag",
+      type_: "Solid",
       children: React.createElement(Solid.FlagIcon, {
             className: "icon"
           }),
@@ -847,6 +952,7 @@ var flagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var folderAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderAdd",
+      type_: "Solid",
       children: React.createElement(Solid.FolderAddIcon, {
             className: "icon"
           }),
@@ -855,6 +961,7 @@ var folderAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var folderDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderDownload",
+      type_: "Solid",
       children: React.createElement(Solid.FolderDownloadIcon, {
             className: "icon"
           }),
@@ -863,6 +970,7 @@ var folderDownloadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var folderIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Folder",
+      type_: "Solid",
       children: React.createElement(Solid.FolderIcon, {
             className: "icon"
           }),
@@ -871,6 +979,7 @@ var folderIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var folderOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderOpen",
+      type_: "Solid",
       children: React.createElement(Solid.FolderOpenIcon, {
             className: "icon"
           }),
@@ -879,6 +988,7 @@ var folderOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var folderRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderRemove",
+      type_: "Solid",
       children: React.createElement(Solid.FolderRemoveIcon, {
             className: "icon"
           }),
@@ -887,6 +997,7 @@ var folderRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var giftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Gift",
+      type_: "Solid",
       children: React.createElement(Solid.GiftIcon, {
             className: "icon"
           }),
@@ -895,6 +1006,7 @@ var giftIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var globeAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "GlobeAlt",
+      type_: "Solid",
       children: React.createElement(Solid.GlobeAltIcon, {
             className: "icon"
           }),
@@ -903,6 +1015,7 @@ var globeAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var globeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Globe",
+      type_: "Solid",
       children: React.createElement(Solid.GlobeIcon, {
             className: "icon"
           }),
@@ -911,6 +1024,7 @@ var globeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var handIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Hand",
+      type_: "Solid",
       children: React.createElement(Solid.HandIcon, {
             className: "icon"
           }),
@@ -919,6 +1033,7 @@ var handIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var hashtagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Hashtag",
+      type_: "Solid",
       children: React.createElement(Solid.HashtagIcon, {
             className: "icon"
           }),
@@ -927,6 +1042,7 @@ var hashtagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var heartIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Heart",
+      type_: "Solid",
       children: React.createElement(Solid.HeartIcon, {
             className: "icon"
           }),
@@ -935,6 +1051,7 @@ var heartIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var homeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Home",
+      type_: "Solid",
       children: React.createElement(Solid.HomeIcon, {
             className: "icon"
           }),
@@ -943,6 +1060,7 @@ var homeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var identificationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Identification",
+      type_: "Solid",
       children: React.createElement(Solid.IdentificationIcon, {
             className: "icon"
           }),
@@ -951,6 +1069,7 @@ var identificationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var inboxIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Inbox",
+      type_: "Solid",
       children: React.createElement(Solid.InboxIcon, {
             className: "icon"
           }),
@@ -959,6 +1078,7 @@ var inboxIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var inboxInIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "InboxIn",
+      type_: "Solid",
       children: React.createElement(Solid.InboxInIcon, {
             className: "icon"
           }),
@@ -967,6 +1087,7 @@ var inboxInIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var informationCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "InformationCircle",
+      type_: "Solid",
       children: React.createElement(Solid.InformationCircleIcon, {
             className: "icon"
           }),
@@ -975,6 +1096,7 @@ var informationCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var keyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Key",
+      type_: "Solid",
       children: React.createElement(Solid.KeyIcon, {
             className: "icon"
           }),
@@ -983,6 +1105,7 @@ var keyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var libraryIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Library",
+      type_: "Solid",
       children: React.createElement(Solid.LibraryIcon, {
             className: "icon"
           }),
@@ -991,6 +1114,7 @@ var libraryIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var lightBulbIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LightBulb",
+      type_: "Solid",
       children: React.createElement(Solid.LightBulbIcon, {
             className: "icon"
           }),
@@ -999,6 +1123,7 @@ var lightBulbIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var lightningBoltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LightningBolt",
+      type_: "Solid",
       children: React.createElement(Solid.LightningBoltIcon, {
             className: "icon"
           }),
@@ -1007,6 +1132,7 @@ var lightningBoltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var linkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Link",
+      type_: "Solid",
       children: React.createElement(Solid.LinkIcon, {
             className: "icon"
           }),
@@ -1015,6 +1141,7 @@ var linkIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var locationMarkerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LocationMarker",
+      type_: "Solid",
       children: React.createElement(Solid.LocationMarkerIcon, {
             className: "icon"
           }),
@@ -1023,6 +1150,7 @@ var locationMarkerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var lockClosedIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LockClosed",
+      type_: "Solid",
       children: React.createElement(Solid.LockClosedIcon, {
             className: "icon"
           }),
@@ -1031,6 +1159,7 @@ var lockClosedIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var lockOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LockOpen",
+      type_: "Solid",
       children: React.createElement(Solid.LockOpenIcon, {
             className: "icon"
           }),
@@ -1039,6 +1168,7 @@ var lockOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var loginIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Login",
+      type_: "Solid",
       children: React.createElement(Solid.LoginIcon, {
             className: "icon"
           }),
@@ -1047,6 +1177,7 @@ var loginIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var logoutIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Logout",
+      type_: "Solid",
       children: React.createElement(Solid.LogoutIcon, {
             className: "icon"
           }),
@@ -1055,6 +1186,7 @@ var logoutIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var mailIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Mail",
+      type_: "Solid",
       children: React.createElement(Solid.MailIcon, {
             className: "icon"
           }),
@@ -1063,6 +1195,7 @@ var mailIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var mailOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MailOpen",
+      type_: "Solid",
       children: React.createElement(Solid.MailOpenIcon, {
             className: "icon"
           }),
@@ -1071,6 +1204,7 @@ var mailOpenIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var mapIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Map",
+      type_: "Solid",
       children: React.createElement(Solid.MapIcon, {
             className: "icon"
           }),
@@ -1079,6 +1213,7 @@ var mapIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var menuAlt1Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt1",
+      type_: "Solid",
       children: React.createElement(Solid.MenuAlt1Icon, {
             className: "icon"
           }),
@@ -1087,6 +1222,7 @@ var menuAlt1Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var menuAlt2Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt2",
+      type_: "Solid",
       children: React.createElement(Solid.MenuAlt2Icon, {
             className: "icon"
           }),
@@ -1095,6 +1231,7 @@ var menuAlt2Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var menuAlt3Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt3",
+      type_: "Solid",
       children: React.createElement(Solid.MenuAlt3Icon, {
             className: "icon"
           }),
@@ -1103,6 +1240,7 @@ var menuAlt3Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var menuAlt4Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt4",
+      type_: "Solid",
       children: React.createElement(Solid.MenuAlt4Icon, {
             className: "icon"
           }),
@@ -1111,6 +1249,7 @@ var menuAlt4Icon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var menuIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Menu",
+      type_: "Solid",
       children: React.createElement(Solid.MenuIcon, {
             className: "icon"
           }),
@@ -1119,6 +1258,7 @@ var menuIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var microphoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Microphone",
+      type_: "Solid",
       children: React.createElement(Solid.MicrophoneIcon, {
             className: "icon"
           }),
@@ -1127,6 +1267,7 @@ var microphoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var minusCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MinusCircle",
+      type_: "Solid",
       children: React.createElement(Solid.MinusCircleIcon, {
             className: "icon"
           }),
@@ -1135,6 +1276,7 @@ var minusCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var minusIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Minus",
+      type_: "Solid",
       children: React.createElement(Solid.MinusIcon, {
             className: "icon"
           }),
@@ -1143,6 +1285,7 @@ var minusIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var minusSmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MinusSm",
+      type_: "Solid",
       children: React.createElement(Solid.MinusSmIcon, {
             className: "icon"
           }),
@@ -1151,6 +1294,7 @@ var minusSmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var moonIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Moon",
+      type_: "Solid",
       children: React.createElement(Solid.MoonIcon, {
             className: "icon"
           }),
@@ -1159,6 +1303,7 @@ var moonIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var musicNoteIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MusicNote",
+      type_: "Solid",
       children: React.createElement(Solid.MusicNoteIcon, {
             className: "icon"
           }),
@@ -1167,6 +1312,7 @@ var musicNoteIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var newspaperIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Newspaper",
+      type_: "Solid",
       children: React.createElement(Solid.NewspaperIcon, {
             className: "icon"
           }),
@@ -1175,6 +1321,7 @@ var newspaperIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var officeBuildingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "OfficeBuilding",
+      type_: "Solid",
       children: React.createElement(Solid.OfficeBuildingIcon, {
             className: "icon"
           }),
@@ -1183,6 +1330,7 @@ var officeBuildingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var paperAirplaneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PaperAirplane",
+      type_: "Solid",
       children: React.createElement(Solid.PaperAirplaneIcon, {
             className: "icon"
           }),
@@ -1191,6 +1339,7 @@ var paperAirplaneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var paperClipIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PaperClip",
+      type_: "Solid",
       children: React.createElement(Solid.PaperClipIcon, {
             className: "icon"
           }),
@@ -1199,6 +1348,7 @@ var paperClipIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var pauseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Pause",
+      type_: "Solid",
       children: React.createElement(Solid.PauseIcon, {
             className: "icon"
           }),
@@ -1207,6 +1357,7 @@ var pauseIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var pencilAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PencilAlt",
+      type_: "Solid",
       children: React.createElement(Solid.PencilAltIcon, {
             className: "icon"
           }),
@@ -1215,6 +1366,7 @@ var pencilAltIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var pencilIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Pencil",
+      type_: "Solid",
       children: React.createElement(Solid.PencilIcon, {
             className: "icon"
           }),
@@ -1223,6 +1375,7 @@ var pencilIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var phoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Phone",
+      type_: "Solid",
       children: React.createElement(Solid.PhoneIcon, {
             className: "icon"
           }),
@@ -1231,6 +1384,7 @@ var phoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var phoneIncomingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneIncoming",
+      type_: "Solid",
       children: React.createElement(Solid.PhoneIncomingIcon, {
             className: "icon"
           }),
@@ -1239,6 +1393,7 @@ var phoneIncomingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var phoneMissedCallIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneMissedCall",
+      type_: "Solid",
       children: React.createElement(Solid.PhoneMissedCallIcon, {
             className: "icon"
           }),
@@ -1247,6 +1402,7 @@ var phoneMissedCallIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBin
 
 var phoneOutgoingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneOutgoing",
+      type_: "Solid",
       children: React.createElement(Solid.PhoneOutgoingIcon, {
             className: "icon"
           }),
@@ -1255,6 +1411,7 @@ var phoneOutgoingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var photographIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Photograph",
+      type_: "Solid",
       children: React.createElement(Solid.PhotographIcon, {
             className: "icon"
           }),
@@ -1263,6 +1420,7 @@ var photographIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var playIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Play",
+      type_: "Solid",
       children: React.createElement(Solid.PlayIcon, {
             className: "icon"
           }),
@@ -1271,6 +1429,7 @@ var playIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var plusCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PlusCircle",
+      type_: "Solid",
       children: React.createElement(Solid.PlusCircleIcon, {
             className: "icon"
           }),
@@ -1279,6 +1438,7 @@ var plusCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var plusIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Plus",
+      type_: "Solid",
       children: React.createElement(Solid.PlusIcon, {
             className: "icon"
           }),
@@ -1287,6 +1447,7 @@ var plusIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var plusSmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PlusSm",
+      type_: "Solid",
       children: React.createElement(Solid.PlusSmIcon, {
             className: "icon"
           }),
@@ -1295,6 +1456,7 @@ var plusSmIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var presentationChartBarIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PresentationChartBar",
+      type_: "Solid",
       children: React.createElement(Solid.PresentationChartBarIcon, {
             className: "icon"
           }),
@@ -1303,6 +1465,7 @@ var presentationChartBarIcon_Solid = React.createElement(IconBox$RescriptHeroico
 
 var presentationChartLineIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PresentationChartLine",
+      type_: "Solid",
       children: React.createElement(Solid.PresentationChartLineIcon, {
             className: "icon"
           }),
@@ -1311,6 +1474,7 @@ var presentationChartLineIcon_Solid = React.createElement(IconBox$RescriptHeroic
 
 var printerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Printer",
+      type_: "Solid",
       children: React.createElement(Solid.PrinterIcon, {
             className: "icon"
           }),
@@ -1319,6 +1483,7 @@ var printerIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var puzzleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Puzzle",
+      type_: "Solid",
       children: React.createElement(Solid.PuzzleIcon, {
             className: "icon"
           }),
@@ -1327,6 +1492,7 @@ var puzzleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var qrcodeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Qrcode",
+      type_: "Solid",
       children: React.createElement(Solid.QrcodeIcon, {
             className: "icon"
           }),
@@ -1335,6 +1501,7 @@ var qrcodeIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var questionMarkCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "QuestionMarkCircle",
+      type_: "Solid",
       children: React.createElement(Solid.QuestionMarkCircleIcon, {
             className: "icon"
           }),
@@ -1343,6 +1510,7 @@ var questionMarkCircleIcon_Solid = React.createElement(IconBox$RescriptHeroicons
 
 var receiptRefundIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ReceiptRefund",
+      type_: "Solid",
       children: React.createElement(Solid.ReceiptRefundIcon, {
             className: "icon"
           }),
@@ -1351,6 +1519,7 @@ var receiptRefundIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var receiptTaxIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ReceiptTax",
+      type_: "Solid",
       children: React.createElement(Solid.ReceiptTaxIcon, {
             className: "icon"
           }),
@@ -1359,6 +1528,7 @@ var receiptTaxIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var refreshIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Refresh",
+      type_: "Solid",
       children: React.createElement(Solid.RefreshIcon, {
             className: "icon"
           }),
@@ -1367,6 +1537,7 @@ var refreshIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var replyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Reply",
+      type_: "Solid",
       children: React.createElement(Solid.ReplyIcon, {
             className: "icon"
           }),
@@ -1375,6 +1546,7 @@ var replyIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var rewindIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Rewind",
+      type_: "Solid",
       children: React.createElement(Solid.RewindIcon, {
             className: "icon"
           }),
@@ -1383,6 +1555,7 @@ var rewindIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var rssIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Rss",
+      type_: "Solid",
       children: React.createElement(Solid.RssIcon, {
             className: "icon"
           }),
@@ -1391,6 +1564,7 @@ var rssIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var saveAsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SaveAs",
+      type_: "Solid",
       children: React.createElement(Solid.SaveAsIcon, {
             className: "icon"
           }),
@@ -1399,6 +1573,7 @@ var saveAsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var saveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Save",
+      type_: "Solid",
       children: React.createElement(Solid.SaveIcon, {
             className: "icon"
           }),
@@ -1407,6 +1582,7 @@ var saveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var scaleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Scale",
+      type_: "Solid",
       children: React.createElement(Solid.ScaleIcon, {
             className: "icon"
           }),
@@ -1415,6 +1591,7 @@ var scaleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var scissorsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Scissors",
+      type_: "Solid",
       children: React.createElement(Solid.ScissorsIcon, {
             className: "icon"
           }),
@@ -1423,6 +1600,7 @@ var scissorsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var searchCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SearchCircle",
+      type_: "Solid",
       children: React.createElement(Solid.SearchCircleIcon, {
             className: "icon"
           }),
@@ -1431,6 +1609,7 @@ var searchCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var searchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Search",
+      type_: "Solid",
       children: React.createElement(Solid.SearchIcon, {
             className: "icon"
           }),
@@ -1439,6 +1618,7 @@ var searchIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var selectorIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Selector",
+      type_: "Solid",
       children: React.createElement(Solid.SelectorIcon, {
             className: "icon"
           }),
@@ -1447,6 +1627,7 @@ var selectorIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var serverIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Server",
+      type_: "Solid",
       children: React.createElement(Solid.ServerIcon, {
             className: "icon"
           }),
@@ -1455,6 +1636,7 @@ var serverIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var shareIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Share",
+      type_: "Solid",
       children: React.createElement(Solid.ShareIcon, {
             className: "icon"
           }),
@@ -1463,6 +1645,7 @@ var shareIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var shieldCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShieldCheck",
+      type_: "Solid",
       children: React.createElement(Solid.ShieldCheckIcon, {
             className: "icon"
           }),
@@ -1471,6 +1654,7 @@ var shieldCheckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var shieldExclamationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShieldExclamation",
+      type_: "Solid",
       children: React.createElement(Solid.ShieldExclamationIcon, {
             className: "icon"
           }),
@@ -1479,6 +1663,7 @@ var shieldExclamationIcon_Solid = React.createElement(IconBox$RescriptHeroiconsB
 
 var shoppingBagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShoppingBag",
+      type_: "Solid",
       children: React.createElement(Solid.ShoppingBagIcon, {
             className: "icon"
           }),
@@ -1487,6 +1672,7 @@ var shoppingBagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var shoppingCartIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShoppingCart",
+      type_: "Solid",
       children: React.createElement(Solid.ShoppingCartIcon, {
             className: "icon"
           }),
@@ -1495,6 +1681,7 @@ var shoppingCartIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var sortAscendingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SortAscending",
+      type_: "Solid",
       children: React.createElement(Solid.SortAscendingIcon, {
             className: "icon"
           }),
@@ -1503,6 +1690,7 @@ var sortAscendingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var sortDescendingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SortDescending",
+      type_: "Solid",
       children: React.createElement(Solid.SortDescendingIcon, {
             className: "icon"
           }),
@@ -1511,6 +1699,7 @@ var sortDescendingIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var sparklesIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Sparkles",
+      type_: "Solid",
       children: React.createElement(Solid.SparklesIcon, {
             className: "icon"
           }),
@@ -1519,6 +1708,7 @@ var sparklesIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var speakerphoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Speakerphone",
+      type_: "Solid",
       children: React.createElement(Solid.SpeakerphoneIcon, {
             className: "icon"
           }),
@@ -1527,6 +1717,7 @@ var speakerphoneIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var starIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Star",
+      type_: "Solid",
       children: React.createElement(Solid.StarIcon, {
             className: "icon"
           }),
@@ -1535,6 +1726,7 @@ var starIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var statusOfflineIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "StatusOffline",
+      type_: "Solid",
       children: React.createElement(Solid.StatusOfflineIcon, {
             className: "icon"
           }),
@@ -1543,6 +1735,7 @@ var statusOfflineIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var statusOnlineIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "StatusOnline",
+      type_: "Solid",
       children: React.createElement(Solid.StatusOnlineIcon, {
             className: "icon"
           }),
@@ -1551,6 +1744,7 @@ var statusOnlineIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var stopIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Stop",
+      type_: "Solid",
       children: React.createElement(Solid.StopIcon, {
             className: "icon"
           }),
@@ -1559,6 +1753,7 @@ var stopIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var sunIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Sun",
+      type_: "Solid",
       children: React.createElement(Solid.SunIcon, {
             className: "icon"
           }),
@@ -1567,6 +1762,7 @@ var sunIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var supportIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Support",
+      type_: "Solid",
       children: React.createElement(Solid.SupportIcon, {
             className: "icon"
           }),
@@ -1575,6 +1771,7 @@ var supportIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var switchHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SwitchHorizontal",
+      type_: "Solid",
       children: React.createElement(Solid.SwitchHorizontalIcon, {
             className: "icon"
           }),
@@ -1583,6 +1780,7 @@ var switchHorizontalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBi
 
 var switchVerticalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SwitchVertical",
+      type_: "Solid",
       children: React.createElement(Solid.SwitchVerticalIcon, {
             className: "icon"
           }),
@@ -1591,6 +1789,7 @@ var switchVerticalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBind
 
 var tableIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Table",
+      type_: "Solid",
       children: React.createElement(Solid.TableIcon, {
             className: "icon"
           }),
@@ -1599,6 +1798,7 @@ var tableIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var tagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Tag",
+      type_: "Solid",
       children: React.createElement(Solid.TagIcon, {
             className: "icon"
           }),
@@ -1607,6 +1807,7 @@ var tagIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var templateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Template",
+      type_: "Solid",
       children: React.createElement(Solid.TemplateIcon, {
             className: "icon"
           }),
@@ -1615,6 +1816,7 @@ var templateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var terminalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Terminal",
+      type_: "Solid",
       children: React.createElement(Solid.TerminalIcon, {
             className: "icon"
           }),
@@ -1623,6 +1825,7 @@ var terminalIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var thumbDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ThumbDown",
+      type_: "Solid",
       children: React.createElement(Solid.ThumbDownIcon, {
             className: "icon"
           }),
@@ -1631,6 +1834,7 @@ var thumbDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var thumbUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ThumbUp",
+      type_: "Solid",
       children: React.createElement(Solid.ThumbUpIcon, {
             className: "icon"
           }),
@@ -1639,6 +1843,7 @@ var thumbUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var ticketIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Ticket",
+      type_: "Solid",
       children: React.createElement(Solid.TicketIcon, {
             className: "icon"
           }),
@@ -1647,6 +1852,7 @@ var ticketIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var translateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Translate",
+      type_: "Solid",
       children: React.createElement(Solid.TranslateIcon, {
             className: "icon"
           }),
@@ -1655,6 +1861,7 @@ var translateIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var trashIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Trash",
+      type_: "Solid",
       children: React.createElement(Solid.TrashIcon, {
             className: "icon"
           }),
@@ -1663,6 +1870,7 @@ var trashIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var trendingDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "TrendingDown",
+      type_: "Solid",
       children: React.createElement(Solid.TrendingDownIcon, {
             className: "icon"
           }),
@@ -1671,6 +1879,7 @@ var trendingDownIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var trendingUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "TrendingUp",
+      type_: "Solid",
       children: React.createElement(Solid.TrendingUpIcon, {
             className: "icon"
           }),
@@ -1679,6 +1888,7 @@ var trendingUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var truckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Truck",
+      type_: "Solid",
       children: React.createElement(Solid.TruckIcon, {
             className: "icon"
           }),
@@ -1687,6 +1897,7 @@ var truckIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var uploadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Upload",
+      type_: "Solid",
       children: React.createElement(Solid.UploadIcon, {
             className: "icon"
           }),
@@ -1695,6 +1906,7 @@ var uploadIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var userAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserAdd",
+      type_: "Solid",
       children: React.createElement(Solid.UserAddIcon, {
             className: "icon"
           }),
@@ -1703,6 +1915,7 @@ var userAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var userCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserCircle",
+      type_: "Solid",
       children: React.createElement(Solid.UserCircleIcon, {
             className: "icon"
           }),
@@ -1711,6 +1924,7 @@ var userCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var userGroupIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserGroup",
+      type_: "Solid",
       children: React.createElement(Solid.UserGroupIcon, {
             className: "icon"
           }),
@@ -1719,6 +1933,7 @@ var userGroupIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var userIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "User",
+      type_: "Solid",
       children: React.createElement(Solid.UserIcon, {
             className: "icon"
           }),
@@ -1727,6 +1942,7 @@ var userIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var userRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserRemove",
+      type_: "Solid",
       children: React.createElement(Solid.UserRemoveIcon, {
             className: "icon"
           }),
@@ -1735,6 +1951,7 @@ var userRemoveIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var usersIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Users",
+      type_: "Solid",
       children: React.createElement(Solid.UsersIcon, {
             className: "icon"
           }),
@@ -1743,6 +1960,7 @@ var usersIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var variableIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Variable",
+      type_: "Solid",
       children: React.createElement(Solid.VariableIcon, {
             className: "icon"
           }),
@@ -1751,6 +1969,7 @@ var variableIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var videoCameraIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VideoCamera",
+      type_: "Solid",
       children: React.createElement(Solid.VideoCameraIcon, {
             className: "icon"
           }),
@@ -1759,6 +1978,7 @@ var videoCameraIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var viewBoardsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewBoards",
+      type_: "Solid",
       children: React.createElement(Solid.ViewBoardsIcon, {
             className: "icon"
           }),
@@ -1767,6 +1987,7 @@ var viewBoardsIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var viewGridAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewGridAdd",
+      type_: "Solid",
       children: React.createElement(Solid.ViewGridAddIcon, {
             className: "icon"
           }),
@@ -1775,6 +1996,7 @@ var viewGridAddIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var viewGridIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewGrid",
+      type_: "Solid",
       children: React.createElement(Solid.ViewGridIcon, {
             className: "icon"
           }),
@@ -1783,6 +2005,7 @@ var viewGridIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var viewListIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewList",
+      type_: "Solid",
       children: React.createElement(Solid.ViewListIcon, {
             className: "icon"
           }),
@@ -1791,6 +2014,7 @@ var viewListIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var volumeOffIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VolumeOff",
+      type_: "Solid",
       children: React.createElement(Solid.VolumeOffIcon, {
             className: "icon"
           }),
@@ -1799,6 +2023,7 @@ var volumeOffIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var volumeUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VolumeUp",
+      type_: "Solid",
       children: React.createElement(Solid.VolumeUpIcon, {
             className: "icon"
           }),
@@ -1807,6 +2032,7 @@ var volumeUpIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var wifiIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Wifi",
+      type_: "Solid",
       children: React.createElement(Solid.WifiIcon, {
             className: "icon"
           }),
@@ -1815,6 +2041,7 @@ var wifiIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.ma
 
 var xCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "XCircle",
+      type_: "Solid",
       children: React.createElement(Solid.XCircleIcon, {
             className: "icon"
           }),
@@ -1823,6 +2050,7 @@ var xCircleIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var xIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "X",
+      type_: "Solid",
       children: React.createElement(Solid.XIcon, {
             className: "icon"
           }),
@@ -1831,6 +2059,7 @@ var xIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make,
 
 var zoomInIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ZoomIn",
+      type_: "Solid",
       children: React.createElement(Solid.ZoomInIcon, {
             className: "icon"
           }),
@@ -1839,6 +2068,7 @@ var zoomInIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var zoomOutIcon_Solid = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ZoomOut",
+      type_: "Solid",
       children: React.createElement(Solid.ZoomOutIcon, {
             className: "icon"
           }),
@@ -2770,6 +3000,7 @@ var solidIcons = [
 
 var academicCapIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "AcademicCap",
+      type_: "Outline",
       children: React.createElement(Outline.AcademicCapIcon, {
             className: "icon"
           }),
@@ -2778,6 +3009,7 @@ var academicCapIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var adjustmentsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Adjustments",
+      type_: "Outline",
       children: React.createElement(Outline.AdjustmentsIcon, {
             className: "icon"
           }),
@@ -2786,6 +3018,7 @@ var adjustmentsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var annotationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Annotation",
+      type_: "Outline",
       children: React.createElement(Outline.AnnotationIcon, {
             className: "icon"
           }),
@@ -2794,6 +3027,7 @@ var annotationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var archiveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Archive",
+      type_: "Outline",
       children: React.createElement(Outline.ArchiveIcon, {
             className: "icon"
           }),
@@ -2802,6 +3036,7 @@ var archiveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var arrowCircleDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleDown",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowCircleDownIcon, {
             className: "icon"
           }),
@@ -2810,6 +3045,7 @@ var arrowCircleDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var arrowCircleLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowCircleLeftIcon, {
             className: "icon"
           }),
@@ -2818,6 +3054,7 @@ var arrowCircleLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var arrowCircleRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleRight",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowCircleRightIcon, {
             className: "icon"
           }),
@@ -2826,6 +3063,7 @@ var arrowCircleRightIcon_Outline = React.createElement(IconBox$RescriptHeroicons
 
 var arrowCircleUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowCircleUp",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowCircleUpIcon, {
             className: "icon"
           }),
@@ -2834,6 +3072,7 @@ var arrowCircleUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowDown",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowDownIcon, {
             className: "icon"
           }),
@@ -2842,6 +3081,7 @@ var arrowDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var arrowLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowLeftIcon, {
             className: "icon"
           }),
@@ -2850,6 +3090,7 @@ var arrowLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var arrowNarrowDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowDown",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowNarrowDownIcon, {
             className: "icon"
           }),
@@ -2858,6 +3099,7 @@ var arrowNarrowDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var arrowNarrowLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowNarrowLeftIcon, {
             className: "icon"
           }),
@@ -2866,6 +3108,7 @@ var arrowNarrowLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var arrowNarrowRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowRight",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowNarrowRightIcon, {
             className: "icon"
           }),
@@ -2874,6 +3117,7 @@ var arrowNarrowRightIcon_Outline = React.createElement(IconBox$RescriptHeroicons
 
 var arrowNarrowUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowNarrowUp",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowNarrowUpIcon, {
             className: "icon"
           }),
@@ -2882,6 +3126,7 @@ var arrowNarrowUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var arrowRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowRight",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowRightIcon, {
             className: "icon"
           }),
@@ -2890,6 +3135,7 @@ var arrowRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var arrowSmDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmDown",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowSmDownIcon, {
             className: "icon"
           }),
@@ -2898,6 +3144,7 @@ var arrowSmDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var arrowSmLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowSmLeftIcon, {
             className: "icon"
           }),
@@ -2906,6 +3153,7 @@ var arrowSmLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var arrowSmRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmRight",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowSmRightIcon, {
             className: "icon"
           }),
@@ -2914,6 +3162,7 @@ var arrowSmRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var arrowSmUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowSmUp",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowSmUpIcon, {
             className: "icon"
           }),
@@ -2922,6 +3171,7 @@ var arrowSmUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var arrowUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowUp",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowUpIcon, {
             className: "icon"
           }),
@@ -2930,6 +3180,7 @@ var arrowUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var arrowsExpandIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ArrowsExpand",
+      type_: "Outline",
       children: React.createElement(Outline.ArrowsExpandIcon, {
             className: "icon"
           }),
@@ -2938,6 +3189,7 @@ var arrowsExpandIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var atSymbolIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "AtSymbol",
+      type_: "Outline",
       children: React.createElement(Outline.AtSymbolIcon, {
             className: "icon"
           }),
@@ -2946,6 +3198,7 @@ var atSymbolIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var backspaceIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Backspace",
+      type_: "Outline",
       children: React.createElement(Outline.BackspaceIcon, {
             className: "icon"
           }),
@@ -2954,6 +3207,7 @@ var backspaceIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var badgeCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BadgeCheck",
+      type_: "Outline",
       children: React.createElement(Outline.BadgeCheckIcon, {
             className: "icon"
           }),
@@ -2962,6 +3216,7 @@ var badgeCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var banIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Ban",
+      type_: "Outline",
       children: React.createElement(Outline.BanIcon, {
             className: "icon"
           }),
@@ -2970,6 +3225,7 @@ var banIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var beakerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Beaker",
+      type_: "Outline",
       children: React.createElement(Outline.BeakerIcon, {
             className: "icon"
           }),
@@ -2978,6 +3234,7 @@ var beakerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var bellIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Bell",
+      type_: "Outline",
       children: React.createElement(Outline.BellIcon, {
             className: "icon"
           }),
@@ -2986,6 +3243,7 @@ var bellIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var bookOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BookOpen",
+      type_: "Outline",
       children: React.createElement(Outline.BookOpenIcon, {
             className: "icon"
           }),
@@ -2994,6 +3252,7 @@ var bookOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var bookmarkAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "BookmarkAlt",
+      type_: "Outline",
       children: React.createElement(Outline.BookmarkAltIcon, {
             className: "icon"
           }),
@@ -3002,6 +3261,7 @@ var bookmarkAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var bookmarkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Bookmark",
+      type_: "Outline",
       children: React.createElement(Outline.BookmarkIcon, {
             className: "icon"
           }),
@@ -3010,6 +3270,7 @@ var bookmarkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var briefcaseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Briefcase",
+      type_: "Outline",
       children: React.createElement(Outline.BriefcaseIcon, {
             className: "icon"
           }),
@@ -3018,6 +3279,7 @@ var briefcaseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var cakeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cake",
+      type_: "Outline",
       children: React.createElement(Outline.CakeIcon, {
             className: "icon"
           }),
@@ -3026,6 +3288,7 @@ var cakeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var calculatorIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Calculator",
+      type_: "Outline",
       children: React.createElement(Outline.CalculatorIcon, {
             className: "icon"
           }),
@@ -3034,6 +3297,7 @@ var calculatorIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var calendarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Calendar",
+      type_: "Outline",
       children: React.createElement(Outline.CalendarIcon, {
             className: "icon"
           }),
@@ -3042,6 +3306,7 @@ var calendarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var cameraIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Camera",
+      type_: "Outline",
       children: React.createElement(Outline.CameraIcon, {
             className: "icon"
           }),
@@ -3050,6 +3315,7 @@ var cameraIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var cashIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cash",
+      type_: "Outline",
       children: React.createElement(Outline.CashIcon, {
             className: "icon"
           }),
@@ -3058,6 +3324,7 @@ var cashIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var chartBarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartBar",
+      type_: "Outline",
       children: React.createElement(Outline.ChartBarIcon, {
             className: "icon"
           }),
@@ -3066,6 +3333,7 @@ var chartBarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var chartPieIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartPie",
+      type_: "Outline",
       children: React.createElement(Outline.ChartPieIcon, {
             className: "icon"
           }),
@@ -3074,6 +3342,7 @@ var chartPieIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var chartSquareBarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChartSquareBar",
+      type_: "Outline",
       children: React.createElement(Outline.ChartSquareBarIcon, {
             className: "icon"
           }),
@@ -3082,6 +3351,7 @@ var chartSquareBarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var chatAlt2Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChatAlt2",
+      type_: "Outline",
       children: React.createElement(Outline.ChatAlt2Icon, {
             className: "icon"
           }),
@@ -3090,6 +3360,7 @@ var chatAlt2Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var chatAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChatAlt",
+      type_: "Outline",
       children: React.createElement(Outline.ChatAltIcon, {
             className: "icon"
           }),
@@ -3098,6 +3369,7 @@ var chatAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var chatIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Chat",
+      type_: "Outline",
       children: React.createElement(Outline.ChatIcon, {
             className: "icon"
           }),
@@ -3106,6 +3378,7 @@ var chatIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var checkCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CheckCircle",
+      type_: "Outline",
       children: React.createElement(Outline.CheckCircleIcon, {
             className: "icon"
           }),
@@ -3114,6 +3387,7 @@ var checkCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var checkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Check",
+      type_: "Outline",
       children: React.createElement(Outline.CheckIcon, {
             className: "icon"
           }),
@@ -3122,6 +3396,7 @@ var checkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var chevronDoubleDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleDown",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronDoubleDownIcon, {
             className: "icon"
           }),
@@ -3130,6 +3405,7 @@ var chevronDoubleDownIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var chevronDoubleLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronDoubleLeftIcon, {
             className: "icon"
           }),
@@ -3138,6 +3414,7 @@ var chevronDoubleLeftIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var chevronDoubleRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleRight",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronDoubleRightIcon, {
             className: "icon"
           }),
@@ -3146,6 +3423,7 @@ var chevronDoubleRightIcon_Outline = React.createElement(IconBox$RescriptHeroico
 
 var chevronDoubleUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDoubleUp",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronDoubleUpIcon, {
             className: "icon"
           }),
@@ -3154,6 +3432,7 @@ var chevronDoubleUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var chevronDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronDown",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronDownIcon, {
             className: "icon"
           }),
@@ -3162,6 +3441,7 @@ var chevronDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var chevronLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronLeft",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronLeftIcon, {
             className: "icon"
           }),
@@ -3170,6 +3450,7 @@ var chevronLeftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var chevronRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronRight",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronRightIcon, {
             className: "icon"
           }),
@@ -3178,6 +3459,7 @@ var chevronRightIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var chevronUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ChevronUp",
+      type_: "Outline",
       children: React.createElement(Outline.ChevronUpIcon, {
             className: "icon"
           }),
@@ -3186,6 +3468,7 @@ var chevronUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var chipIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Chip",
+      type_: "Outline",
       children: React.createElement(Outline.ChipIcon, {
             className: "icon"
           }),
@@ -3194,6 +3477,7 @@ var chipIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var clipboardCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardCheck",
+      type_: "Outline",
       children: React.createElement(Outline.ClipboardCheckIcon, {
             className: "icon"
           }),
@@ -3202,6 +3486,7 @@ var clipboardCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var clipboardCopyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardCopy",
+      type_: "Outline",
       children: React.createElement(Outline.ClipboardCopyIcon, {
             className: "icon"
           }),
@@ -3210,6 +3495,7 @@ var clipboardCopyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var clipboardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Clipboard",
+      type_: "Outline",
       children: React.createElement(Outline.ClipboardIcon, {
             className: "icon"
           }),
@@ -3218,6 +3504,7 @@ var clipboardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var clipboardListIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ClipboardList",
+      type_: "Outline",
       children: React.createElement(Outline.ClipboardListIcon, {
             className: "icon"
           }),
@@ -3226,6 +3513,7 @@ var clipboardListIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var clockIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Clock",
+      type_: "Outline",
       children: React.createElement(Outline.ClockIcon, {
             className: "icon"
           }),
@@ -3234,6 +3522,7 @@ var clockIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var cloudDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CloudDownload",
+      type_: "Outline",
       children: React.createElement(Outline.CloudDownloadIcon, {
             className: "icon"
           }),
@@ -3242,6 +3531,7 @@ var cloudDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var cloudIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cloud",
+      type_: "Outline",
       children: React.createElement(Outline.CloudIcon, {
             className: "icon"
           }),
@@ -3250,6 +3540,7 @@ var cloudIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var cloudUploadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CloudUpload",
+      type_: "Outline",
       children: React.createElement(Outline.CloudUploadIcon, {
             className: "icon"
           }),
@@ -3258,6 +3549,7 @@ var cloudUploadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var codeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Code",
+      type_: "Outline",
       children: React.createElement(Outline.CodeIcon, {
             className: "icon"
           }),
@@ -3266,6 +3558,7 @@ var codeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var cogIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cog",
+      type_: "Outline",
       children: React.createElement(Outline.CogIcon, {
             className: "icon"
           }),
@@ -3274,6 +3567,7 @@ var cogIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var collectionIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Collection",
+      type_: "Outline",
       children: React.createElement(Outline.CollectionIcon, {
             className: "icon"
           }),
@@ -3282,6 +3576,7 @@ var collectionIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var colorSwatchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ColorSwatch",
+      type_: "Outline",
       children: React.createElement(Outline.ColorSwatchIcon, {
             className: "icon"
           }),
@@ -3290,6 +3585,7 @@ var colorSwatchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var creditCardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CreditCard",
+      type_: "Outline",
       children: React.createElement(Outline.CreditCardIcon, {
             className: "icon"
           }),
@@ -3298,6 +3594,7 @@ var creditCardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var cubeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Cube",
+      type_: "Outline",
       children: React.createElement(Outline.CubeIcon, {
             className: "icon"
           }),
@@ -3306,6 +3603,7 @@ var cubeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var cubeTransparentIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CubeTransparent",
+      type_: "Outline",
       children: React.createElement(Outline.CubeTransparentIcon, {
             className: "icon"
           }),
@@ -3314,6 +3612,7 @@ var cubeTransparentIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var currencyBangladeshiIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyBangladeshi",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyBangladeshiIcon, {
             className: "icon"
           }),
@@ -3322,6 +3621,7 @@ var currencyBangladeshiIcon_Outline = React.createElement(IconBox$RescriptHeroic
 
 var currencyDollarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyDollar",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyDollarIcon, {
             className: "icon"
           }),
@@ -3330,6 +3630,7 @@ var currencyDollarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var currencyEuroIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyEuro",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyEuroIcon, {
             className: "icon"
           }),
@@ -3338,6 +3639,7 @@ var currencyEuroIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var currencyPoundIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyPound",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyPoundIcon, {
             className: "icon"
           }),
@@ -3346,6 +3648,7 @@ var currencyPoundIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var currencyRupeeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyRupee",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyRupeeIcon, {
             className: "icon"
           }),
@@ -3354,6 +3657,7 @@ var currencyRupeeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var currencyYenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CurrencyYen",
+      type_: "Outline",
       children: React.createElement(Outline.CurrencyYenIcon, {
             className: "icon"
           }),
@@ -3362,6 +3666,7 @@ var currencyYenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var cursorClickIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "CursorClick",
+      type_: "Outline",
       children: React.createElement(Outline.CursorClickIcon, {
             className: "icon"
           }),
@@ -3370,6 +3675,7 @@ var cursorClickIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var databaseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Database",
+      type_: "Outline",
       children: React.createElement(Outline.DatabaseIcon, {
             className: "icon"
           }),
@@ -3378,6 +3684,7 @@ var databaseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var desktopComputerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DesktopComputer",
+      type_: "Outline",
       children: React.createElement(Outline.DesktopComputerIcon, {
             className: "icon"
           }),
@@ -3386,6 +3693,7 @@ var desktopComputerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var deviceMobileIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DeviceMobile",
+      type_: "Outline",
       children: React.createElement(Outline.DeviceMobileIcon, {
             className: "icon"
           }),
@@ -3394,6 +3702,7 @@ var deviceMobileIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var deviceTabletIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DeviceTablet",
+      type_: "Outline",
       children: React.createElement(Outline.DeviceTabletIcon, {
             className: "icon"
           }),
@@ -3402,6 +3711,7 @@ var deviceTabletIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var documentAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentAdd",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentAddIcon, {
             className: "icon"
           }),
@@ -3410,6 +3720,7 @@ var documentAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var documentDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentDownload",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentDownloadIcon, {
             className: "icon"
           }),
@@ -3418,6 +3729,7 @@ var documentDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroicons
 
 var documentDuplicateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentDuplicate",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentDuplicateIcon, {
             className: "icon"
           }),
@@ -3426,6 +3738,7 @@ var documentDuplicateIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var documentIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Document",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentIcon, {
             className: "icon"
           }),
@@ -3434,6 +3747,7 @@ var documentIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var documentRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentRemove",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentRemoveIcon, {
             className: "icon"
           }),
@@ -3442,6 +3756,7 @@ var documentRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var documentReportIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentReport",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentReportIcon, {
             className: "icon"
           }),
@@ -3450,6 +3765,7 @@ var documentReportIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var documentSearchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentSearch",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentSearchIcon, {
             className: "icon"
           }),
@@ -3458,6 +3774,7 @@ var documentSearchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var documentTextIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DocumentText",
+      type_: "Outline",
       children: React.createElement(Outline.DocumentTextIcon, {
             className: "icon"
           }),
@@ -3466,6 +3783,7 @@ var documentTextIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var dotsCircleHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsCircleHorizontal",
+      type_: "Outline",
       children: React.createElement(Outline.DotsCircleHorizontalIcon, {
             className: "icon"
           }),
@@ -3474,6 +3792,7 @@ var dotsCircleHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroi
 
 var dotsHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsHorizontal",
+      type_: "Outline",
       children: React.createElement(Outline.DotsHorizontalIcon, {
             className: "icon"
           }),
@@ -3482,6 +3801,7 @@ var dotsHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var dotsVerticalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "DotsVertical",
+      type_: "Outline",
       children: React.createElement(Outline.DotsVerticalIcon, {
             className: "icon"
           }),
@@ -3490,6 +3810,7 @@ var dotsVerticalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var downloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Download",
+      type_: "Outline",
       children: React.createElement(Outline.DownloadIcon, {
             className: "icon"
           }),
@@ -3498,6 +3819,7 @@ var downloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var duplicateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Duplicate",
+      type_: "Outline",
       children: React.createElement(Outline.DuplicateIcon, {
             className: "icon"
           }),
@@ -3506,6 +3828,7 @@ var duplicateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var emojiHappyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EmojiHappy",
+      type_: "Outline",
       children: React.createElement(Outline.EmojiHappyIcon, {
             className: "icon"
           }),
@@ -3514,6 +3837,7 @@ var emojiHappyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var emojiSadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EmojiSad",
+      type_: "Outline",
       children: React.createElement(Outline.EmojiSadIcon, {
             className: "icon"
           }),
@@ -3522,6 +3846,7 @@ var emojiSadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var exclamationCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ExclamationCircle",
+      type_: "Outline",
       children: React.createElement(Outline.ExclamationCircleIcon, {
             className: "icon"
           }),
@@ -3530,6 +3855,7 @@ var exclamationCircleIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var exclamationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Exclamation",
+      type_: "Outline",
       children: React.createElement(Outline.ExclamationIcon, {
             className: "icon"
           }),
@@ -3538,6 +3864,7 @@ var exclamationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var externalLinkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ExternalLink",
+      type_: "Outline",
       children: React.createElement(Outline.ExternalLinkIcon, {
             className: "icon"
           }),
@@ -3546,6 +3873,7 @@ var externalLinkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var eyeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Eye",
+      type_: "Outline",
       children: React.createElement(Outline.EyeIcon, {
             className: "icon"
           }),
@@ -3554,6 +3882,7 @@ var eyeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var eyeOffIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "EyeOff",
+      type_: "Outline",
       children: React.createElement(Outline.EyeOffIcon, {
             className: "icon"
           }),
@@ -3562,6 +3891,7 @@ var eyeOffIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var fastForwardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FastForward",
+      type_: "Outline",
       children: React.createElement(Outline.FastForwardIcon, {
             className: "icon"
           }),
@@ -3570,6 +3900,7 @@ var fastForwardIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var filmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Film",
+      type_: "Outline",
       children: React.createElement(Outline.FilmIcon, {
             className: "icon"
           }),
@@ -3578,6 +3909,7 @@ var filmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var filterIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Filter",
+      type_: "Outline",
       children: React.createElement(Outline.FilterIcon, {
             className: "icon"
           }),
@@ -3586,6 +3918,7 @@ var filterIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var fingerPrintIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FingerPrint",
+      type_: "Outline",
       children: React.createElement(Outline.FingerPrintIcon, {
             className: "icon"
           }),
@@ -3594,6 +3927,7 @@ var fingerPrintIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var fireIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Fire",
+      type_: "Outline",
       children: React.createElement(Outline.FireIcon, {
             className: "icon"
           }),
@@ -3602,6 +3936,7 @@ var fireIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var flagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Flag",
+      type_: "Outline",
       children: React.createElement(Outline.FlagIcon, {
             className: "icon"
           }),
@@ -3610,6 +3945,7 @@ var flagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var folderAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderAdd",
+      type_: "Outline",
       children: React.createElement(Outline.FolderAddIcon, {
             className: "icon"
           }),
@@ -3618,6 +3954,7 @@ var folderAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var folderDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderDownload",
+      type_: "Outline",
       children: React.createElement(Outline.FolderDownloadIcon, {
             className: "icon"
           }),
@@ -3626,6 +3963,7 @@ var folderDownloadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var folderIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Folder",
+      type_: "Outline",
       children: React.createElement(Outline.FolderIcon, {
             className: "icon"
           }),
@@ -3634,6 +3972,7 @@ var folderIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var folderOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderOpen",
+      type_: "Outline",
       children: React.createElement(Outline.FolderOpenIcon, {
             className: "icon"
           }),
@@ -3642,6 +3981,7 @@ var folderOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var folderRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "FolderRemove",
+      type_: "Outline",
       children: React.createElement(Outline.FolderRemoveIcon, {
             className: "icon"
           }),
@@ -3650,6 +3990,7 @@ var folderRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var giftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Gift",
+      type_: "Outline",
       children: React.createElement(Outline.GiftIcon, {
             className: "icon"
           }),
@@ -3658,6 +3999,7 @@ var giftIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var globeAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "GlobeAlt",
+      type_: "Outline",
       children: React.createElement(Outline.GlobeAltIcon, {
             className: "icon"
           }),
@@ -3666,6 +4008,7 @@ var globeAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var globeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Globe",
+      type_: "Outline",
       children: React.createElement(Outline.GlobeIcon, {
             className: "icon"
           }),
@@ -3674,6 +4017,7 @@ var globeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var handIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Hand",
+      type_: "Outline",
       children: React.createElement(Outline.HandIcon, {
             className: "icon"
           }),
@@ -3682,6 +4026,7 @@ var handIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var hashtagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Hashtag",
+      type_: "Outline",
       children: React.createElement(Outline.HashtagIcon, {
             className: "icon"
           }),
@@ -3690,6 +4035,7 @@ var hashtagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var heartIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Heart",
+      type_: "Outline",
       children: React.createElement(Outline.HeartIcon, {
             className: "icon"
           }),
@@ -3698,6 +4044,7 @@ var heartIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var homeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Home",
+      type_: "Outline",
       children: React.createElement(Outline.HomeIcon, {
             className: "icon"
           }),
@@ -3706,6 +4053,7 @@ var homeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var identificationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Identification",
+      type_: "Outline",
       children: React.createElement(Outline.IdentificationIcon, {
             className: "icon"
           }),
@@ -3714,6 +4062,7 @@ var identificationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var inboxIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Inbox",
+      type_: "Outline",
       children: React.createElement(Outline.InboxIcon, {
             className: "icon"
           }),
@@ -3722,6 +4071,7 @@ var inboxIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var inboxInIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "InboxIn",
+      type_: "Outline",
       children: React.createElement(Outline.InboxInIcon, {
             className: "icon"
           }),
@@ -3730,6 +4080,7 @@ var inboxInIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var informationCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "InformationCircle",
+      type_: "Outline",
       children: React.createElement(Outline.InformationCircleIcon, {
             className: "icon"
           }),
@@ -3738,6 +4089,7 @@ var informationCircleIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var keyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Key",
+      type_: "Outline",
       children: React.createElement(Outline.KeyIcon, {
             className: "icon"
           }),
@@ -3746,6 +4098,7 @@ var keyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var libraryIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Library",
+      type_: "Outline",
       children: React.createElement(Outline.LibraryIcon, {
             className: "icon"
           }),
@@ -3754,6 +4107,7 @@ var libraryIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var lightBulbIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LightBulb",
+      type_: "Outline",
       children: React.createElement(Outline.LightBulbIcon, {
             className: "icon"
           }),
@@ -3762,6 +4116,7 @@ var lightBulbIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var lightningBoltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LightningBolt",
+      type_: "Outline",
       children: React.createElement(Outline.LightningBoltIcon, {
             className: "icon"
           }),
@@ -3770,6 +4125,7 @@ var lightningBoltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var linkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Link",
+      type_: "Outline",
       children: React.createElement(Outline.LinkIcon, {
             className: "icon"
           }),
@@ -3778,6 +4134,7 @@ var linkIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var locationMarkerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LocationMarker",
+      type_: "Outline",
       children: React.createElement(Outline.LocationMarkerIcon, {
             className: "icon"
           }),
@@ -3786,6 +4143,7 @@ var locationMarkerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var lockClosedIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LockClosed",
+      type_: "Outline",
       children: React.createElement(Outline.LockClosedIcon, {
             className: "icon"
           }),
@@ -3794,6 +4152,7 @@ var lockClosedIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var lockOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "LockOpen",
+      type_: "Outline",
       children: React.createElement(Outline.LockOpenIcon, {
             className: "icon"
           }),
@@ -3802,6 +4161,7 @@ var lockOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var loginIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Login",
+      type_: "Outline",
       children: React.createElement(Outline.LoginIcon, {
             className: "icon"
           }),
@@ -3810,6 +4170,7 @@ var loginIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var logoutIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Logout",
+      type_: "Outline",
       children: React.createElement(Outline.LogoutIcon, {
             className: "icon"
           }),
@@ -3818,6 +4179,7 @@ var logoutIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var mailIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Mail",
+      type_: "Outline",
       children: React.createElement(Outline.MailIcon, {
             className: "icon"
           }),
@@ -3826,6 +4188,7 @@ var mailIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var mailOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MailOpen",
+      type_: "Outline",
       children: React.createElement(Outline.MailOpenIcon, {
             className: "icon"
           }),
@@ -3834,6 +4197,7 @@ var mailOpenIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var mapIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Map",
+      type_: "Outline",
       children: React.createElement(Outline.MapIcon, {
             className: "icon"
           }),
@@ -3842,6 +4206,7 @@ var mapIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var menuAlt1Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt1",
+      type_: "Outline",
       children: React.createElement(Outline.MenuAlt1Icon, {
             className: "icon"
           }),
@@ -3850,6 +4215,7 @@ var menuAlt1Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var menuAlt2Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt2",
+      type_: "Outline",
       children: React.createElement(Outline.MenuAlt2Icon, {
             className: "icon"
           }),
@@ -3858,6 +4224,7 @@ var menuAlt2Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var menuAlt3Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt3",
+      type_: "Outline",
       children: React.createElement(Outline.MenuAlt3Icon, {
             className: "icon"
           }),
@@ -3866,6 +4233,7 @@ var menuAlt3Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var menuAlt4Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MenuAlt4",
+      type_: "Outline",
       children: React.createElement(Outline.MenuAlt4Icon, {
             className: "icon"
           }),
@@ -3874,6 +4242,7 @@ var menuAlt4Icon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var menuIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Menu",
+      type_: "Outline",
       children: React.createElement(Outline.MenuIcon, {
             className: "icon"
           }),
@@ -3882,6 +4251,7 @@ var menuIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var microphoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Microphone",
+      type_: "Outline",
       children: React.createElement(Outline.MicrophoneIcon, {
             className: "icon"
           }),
@@ -3890,6 +4260,7 @@ var microphoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var minusCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MinusCircle",
+      type_: "Outline",
       children: React.createElement(Outline.MinusCircleIcon, {
             className: "icon"
           }),
@@ -3898,6 +4269,7 @@ var minusCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var minusIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Minus",
+      type_: "Outline",
       children: React.createElement(Outline.MinusIcon, {
             className: "icon"
           }),
@@ -3906,6 +4278,7 @@ var minusIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var minusSmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MinusSm",
+      type_: "Outline",
       children: React.createElement(Outline.MinusSmIcon, {
             className: "icon"
           }),
@@ -3914,6 +4287,7 @@ var minusSmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var moonIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Moon",
+      type_: "Outline",
       children: React.createElement(Outline.MoonIcon, {
             className: "icon"
           }),
@@ -3922,6 +4296,7 @@ var moonIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var musicNoteIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "MusicNote",
+      type_: "Outline",
       children: React.createElement(Outline.MusicNoteIcon, {
             className: "icon"
           }),
@@ -3930,6 +4305,7 @@ var musicNoteIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var newspaperIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Newspaper",
+      type_: "Outline",
       children: React.createElement(Outline.NewspaperIcon, {
             className: "icon"
           }),
@@ -3938,6 +4314,7 @@ var newspaperIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var officeBuildingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "OfficeBuilding",
+      type_: "Outline",
       children: React.createElement(Outline.OfficeBuildingIcon, {
             className: "icon"
           }),
@@ -3946,6 +4323,7 @@ var officeBuildingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var paperAirplaneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PaperAirplane",
+      type_: "Outline",
       children: React.createElement(Outline.PaperAirplaneIcon, {
             className: "icon"
           }),
@@ -3954,6 +4332,7 @@ var paperAirplaneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var paperClipIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PaperClip",
+      type_: "Outline",
       children: React.createElement(Outline.PaperClipIcon, {
             className: "icon"
           }),
@@ -3962,6 +4341,7 @@ var paperClipIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var pauseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Pause",
+      type_: "Outline",
       children: React.createElement(Outline.PauseIcon, {
             className: "icon"
           }),
@@ -3970,6 +4350,7 @@ var pauseIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var pencilAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PencilAlt",
+      type_: "Outline",
       children: React.createElement(Outline.PencilAltIcon, {
             className: "icon"
           }),
@@ -3978,6 +4359,7 @@ var pencilAltIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var pencilIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Pencil",
+      type_: "Outline",
       children: React.createElement(Outline.PencilIcon, {
             className: "icon"
           }),
@@ -3986,6 +4368,7 @@ var pencilIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var phoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Phone",
+      type_: "Outline",
       children: React.createElement(Outline.PhoneIcon, {
             className: "icon"
           }),
@@ -3994,6 +4377,7 @@ var phoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var phoneIncomingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneIncoming",
+      type_: "Outline",
       children: React.createElement(Outline.PhoneIncomingIcon, {
             className: "icon"
           }),
@@ -4002,6 +4386,7 @@ var phoneIncomingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var phoneMissedCallIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneMissedCall",
+      type_: "Outline",
       children: React.createElement(Outline.PhoneMissedCallIcon, {
             className: "icon"
           }),
@@ -4010,6 +4395,7 @@ var phoneMissedCallIcon_Outline = React.createElement(IconBox$RescriptHeroiconsB
 
 var phoneOutgoingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PhoneOutgoing",
+      type_: "Outline",
       children: React.createElement(Outline.PhoneOutgoingIcon, {
             className: "icon"
           }),
@@ -4018,6 +4404,7 @@ var phoneOutgoingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var photographIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Photograph",
+      type_: "Outline",
       children: React.createElement(Outline.PhotographIcon, {
             className: "icon"
           }),
@@ -4026,6 +4413,7 @@ var photographIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var playIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Play",
+      type_: "Outline",
       children: React.createElement(Outline.PlayIcon, {
             className: "icon"
           }),
@@ -4034,6 +4422,7 @@ var playIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var plusCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PlusCircle",
+      type_: "Outline",
       children: React.createElement(Outline.PlusCircleIcon, {
             className: "icon"
           }),
@@ -4042,6 +4431,7 @@ var plusCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var plusIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Plus",
+      type_: "Outline",
       children: React.createElement(Outline.PlusIcon, {
             className: "icon"
           }),
@@ -4050,6 +4440,7 @@ var plusIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var plusSmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PlusSm",
+      type_: "Outline",
       children: React.createElement(Outline.PlusSmIcon, {
             className: "icon"
           }),
@@ -4058,6 +4449,7 @@ var plusSmIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var presentationChartBarIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PresentationChartBar",
+      type_: "Outline",
       children: React.createElement(Outline.PresentationChartBarIcon, {
             className: "icon"
           }),
@@ -4066,6 +4458,7 @@ var presentationChartBarIcon_Outline = React.createElement(IconBox$RescriptHeroi
 
 var presentationChartLineIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "PresentationChartLine",
+      type_: "Outline",
       children: React.createElement(Outline.PresentationChartLineIcon, {
             className: "icon"
           }),
@@ -4074,6 +4467,7 @@ var presentationChartLineIcon_Outline = React.createElement(IconBox$RescriptHero
 
 var printerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Printer",
+      type_: "Outline",
       children: React.createElement(Outline.PrinterIcon, {
             className: "icon"
           }),
@@ -4082,6 +4476,7 @@ var printerIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var puzzleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Puzzle",
+      type_: "Outline",
       children: React.createElement(Outline.PuzzleIcon, {
             className: "icon"
           }),
@@ -4090,6 +4485,7 @@ var puzzleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var qrcodeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Qrcode",
+      type_: "Outline",
       children: React.createElement(Outline.QrcodeIcon, {
             className: "icon"
           }),
@@ -4098,6 +4494,7 @@ var qrcodeIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var questionMarkCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "QuestionMarkCircle",
+      type_: "Outline",
       children: React.createElement(Outline.QuestionMarkCircleIcon, {
             className: "icon"
           }),
@@ -4106,6 +4503,7 @@ var questionMarkCircleIcon_Outline = React.createElement(IconBox$RescriptHeroico
 
 var receiptRefundIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ReceiptRefund",
+      type_: "Outline",
       children: React.createElement(Outline.ReceiptRefundIcon, {
             className: "icon"
           }),
@@ -4114,6 +4512,7 @@ var receiptRefundIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var receiptTaxIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ReceiptTax",
+      type_: "Outline",
       children: React.createElement(Outline.ReceiptTaxIcon, {
             className: "icon"
           }),
@@ -4122,6 +4521,7 @@ var receiptTaxIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var refreshIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Refresh",
+      type_: "Outline",
       children: React.createElement(Outline.RefreshIcon, {
             className: "icon"
           }),
@@ -4130,6 +4530,7 @@ var refreshIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var replyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Reply",
+      type_: "Outline",
       children: React.createElement(Outline.ReplyIcon, {
             className: "icon"
           }),
@@ -4138,6 +4539,7 @@ var replyIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var rewindIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Rewind",
+      type_: "Outline",
       children: React.createElement(Outline.RewindIcon, {
             className: "icon"
           }),
@@ -4146,6 +4548,7 @@ var rewindIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var rssIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Rss",
+      type_: "Outline",
       children: React.createElement(Outline.RssIcon, {
             className: "icon"
           }),
@@ -4154,6 +4557,7 @@ var rssIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var saveAsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SaveAs",
+      type_: "Outline",
       children: React.createElement(Outline.SaveAsIcon, {
             className: "icon"
           }),
@@ -4162,6 +4566,7 @@ var saveAsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var saveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Save",
+      type_: "Outline",
       children: React.createElement(Outline.SaveIcon, {
             className: "icon"
           }),
@@ -4170,6 +4575,7 @@ var saveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var scaleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Scale",
+      type_: "Outline",
       children: React.createElement(Outline.ScaleIcon, {
             className: "icon"
           }),
@@ -4178,6 +4584,7 @@ var scaleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var scissorsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Scissors",
+      type_: "Outline",
       children: React.createElement(Outline.ScissorsIcon, {
             className: "icon"
           }),
@@ -4186,6 +4593,7 @@ var scissorsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var searchCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SearchCircle",
+      type_: "Outline",
       children: React.createElement(Outline.SearchCircleIcon, {
             className: "icon"
           }),
@@ -4194,6 +4602,7 @@ var searchCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var searchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Search",
+      type_: "Outline",
       children: React.createElement(Outline.SearchIcon, {
             className: "icon"
           }),
@@ -4202,6 +4611,7 @@ var searchIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var selectorIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Selector",
+      type_: "Outline",
       children: React.createElement(Outline.SelectorIcon, {
             className: "icon"
           }),
@@ -4210,6 +4620,7 @@ var selectorIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var serverIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Server",
+      type_: "Outline",
       children: React.createElement(Outline.ServerIcon, {
             className: "icon"
           }),
@@ -4218,6 +4629,7 @@ var serverIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var shareIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Share",
+      type_: "Outline",
       children: React.createElement(Outline.ShareIcon, {
             className: "icon"
           }),
@@ -4226,6 +4638,7 @@ var shareIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var shieldCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShieldCheck",
+      type_: "Outline",
       children: React.createElement(Outline.ShieldCheckIcon, {
             className: "icon"
           }),
@@ -4234,6 +4647,7 @@ var shieldCheckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var shieldExclamationIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShieldExclamation",
+      type_: "Outline",
       children: React.createElement(Outline.ShieldExclamationIcon, {
             className: "icon"
           }),
@@ -4242,6 +4656,7 @@ var shieldExclamationIcon_Outline = React.createElement(IconBox$RescriptHeroicon
 
 var shoppingBagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShoppingBag",
+      type_: "Outline",
       children: React.createElement(Outline.ShoppingBagIcon, {
             className: "icon"
           }),
@@ -4250,6 +4665,7 @@ var shoppingBagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var shoppingCartIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ShoppingCart",
+      type_: "Outline",
       children: React.createElement(Outline.ShoppingCartIcon, {
             className: "icon"
           }),
@@ -4258,6 +4674,7 @@ var shoppingCartIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var sortAscendingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SortAscending",
+      type_: "Outline",
       children: React.createElement(Outline.SortAscendingIcon, {
             className: "icon"
           }),
@@ -4266,6 +4683,7 @@ var sortAscendingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var sortDescendingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SortDescending",
+      type_: "Outline",
       children: React.createElement(Outline.SortDescendingIcon, {
             className: "icon"
           }),
@@ -4274,6 +4692,7 @@ var sortDescendingIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var sparklesIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Sparkles",
+      type_: "Outline",
       children: React.createElement(Outline.SparklesIcon, {
             className: "icon"
           }),
@@ -4282,6 +4701,7 @@ var sparklesIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var speakerphoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Speakerphone",
+      type_: "Outline",
       children: React.createElement(Outline.SpeakerphoneIcon, {
             className: "icon"
           }),
@@ -4290,6 +4710,7 @@ var speakerphoneIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var starIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Star",
+      type_: "Outline",
       children: React.createElement(Outline.StarIcon, {
             className: "icon"
           }),
@@ -4298,6 +4719,7 @@ var starIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var statusOfflineIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "StatusOffline",
+      type_: "Outline",
       children: React.createElement(Outline.StatusOfflineIcon, {
             className: "icon"
           }),
@@ -4306,6 +4728,7 @@ var statusOfflineIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBin
 
 var statusOnlineIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "StatusOnline",
+      type_: "Outline",
       children: React.createElement(Outline.StatusOnlineIcon, {
             className: "icon"
           }),
@@ -4314,6 +4737,7 @@ var statusOnlineIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var stopIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Stop",
+      type_: "Outline",
       children: React.createElement(Outline.StopIcon, {
             className: "icon"
           }),
@@ -4322,6 +4746,7 @@ var stopIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var sunIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Sun",
+      type_: "Outline",
       children: React.createElement(Outline.SunIcon, {
             className: "icon"
           }),
@@ -4330,6 +4755,7 @@ var sunIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var supportIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Support",
+      type_: "Outline",
       children: React.createElement(Outline.SupportIcon, {
             className: "icon"
           }),
@@ -4338,6 +4764,7 @@ var supportIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var switchHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SwitchHorizontal",
+      type_: "Outline",
       children: React.createElement(Outline.SwitchHorizontalIcon, {
             className: "icon"
           }),
@@ -4346,6 +4773,7 @@ var switchHorizontalIcon_Outline = React.createElement(IconBox$RescriptHeroicons
 
 var switchVerticalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "SwitchVertical",
+      type_: "Outline",
       children: React.createElement(Outline.SwitchVerticalIcon, {
             className: "icon"
           }),
@@ -4354,6 +4782,7 @@ var switchVerticalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBi
 
 var tableIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Table",
+      type_: "Outline",
       children: React.createElement(Outline.TableIcon, {
             className: "icon"
           }),
@@ -4362,6 +4791,7 @@ var tableIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var tagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Tag",
+      type_: "Outline",
       children: React.createElement(Outline.TagIcon, {
             className: "icon"
           }),
@@ -4370,6 +4800,7 @@ var tagIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.m
 
 var templateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Template",
+      type_: "Outline",
       children: React.createElement(Outline.TemplateIcon, {
             className: "icon"
           }),
@@ -4378,6 +4809,7 @@ var templateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var terminalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Terminal",
+      type_: "Outline",
       children: React.createElement(Outline.TerminalIcon, {
             className: "icon"
           }),
@@ -4386,6 +4818,7 @@ var terminalIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var thumbDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ThumbDown",
+      type_: "Outline",
       children: React.createElement(Outline.ThumbDownIcon, {
             className: "icon"
           }),
@@ -4394,6 +4827,7 @@ var thumbDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var thumbUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ThumbUp",
+      type_: "Outline",
       children: React.createElement(Outline.ThumbUpIcon, {
             className: "icon"
           }),
@@ -4402,6 +4836,7 @@ var thumbUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var ticketIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Ticket",
+      type_: "Outline",
       children: React.createElement(Outline.TicketIcon, {
             className: "icon"
           }),
@@ -4410,6 +4845,7 @@ var ticketIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var translateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Translate",
+      type_: "Outline",
       children: React.createElement(Outline.TranslateIcon, {
             className: "icon"
           }),
@@ -4418,6 +4854,7 @@ var translateIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var trashIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Trash",
+      type_: "Outline",
       children: React.createElement(Outline.TrashIcon, {
             className: "icon"
           }),
@@ -4426,6 +4863,7 @@ var trashIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var trendingDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "TrendingDown",
+      type_: "Outline",
       children: React.createElement(Outline.TrendingDownIcon, {
             className: "icon"
           }),
@@ -4434,6 +4872,7 @@ var trendingDownIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBind
 
 var trendingUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "TrendingUp",
+      type_: "Outline",
       children: React.createElement(Outline.TrendingUpIcon, {
             className: "icon"
           }),
@@ -4442,6 +4881,7 @@ var trendingUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var truckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Truck",
+      type_: "Outline",
       children: React.createElement(Outline.TruckIcon, {
             className: "icon"
           }),
@@ -4450,6 +4890,7 @@ var truckIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var uploadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Upload",
+      type_: "Outline",
       children: React.createElement(Outline.UploadIcon, {
             className: "icon"
           }),
@@ -4458,6 +4899,7 @@ var uploadIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var userAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserAdd",
+      type_: "Outline",
       children: React.createElement(Outline.UserAddIcon, {
             className: "icon"
           }),
@@ -4466,6 +4908,7 @@ var userAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var userCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserCircle",
+      type_: "Outline",
       children: React.createElement(Outline.UserCircleIcon, {
             className: "icon"
           }),
@@ -4474,6 +4917,7 @@ var userCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var userGroupIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserGroup",
+      type_: "Outline",
       children: React.createElement(Outline.UserGroupIcon, {
             className: "icon"
           }),
@@ -4482,6 +4926,7 @@ var userGroupIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var userIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "User",
+      type_: "Outline",
       children: React.createElement(Outline.UserIcon, {
             className: "icon"
           }),
@@ -4490,6 +4935,7 @@ var userIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var userRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "UserRemove",
+      type_: "Outline",
       children: React.createElement(Outline.UserRemoveIcon, {
             className: "icon"
           }),
@@ -4498,6 +4944,7 @@ var userRemoveIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var usersIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Users",
+      type_: "Outline",
       children: React.createElement(Outline.UsersIcon, {
             className: "icon"
           }),
@@ -4506,6 +4953,7 @@ var usersIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo
 
 var variableIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Variable",
+      type_: "Outline",
       children: React.createElement(Outline.VariableIcon, {
             className: "icon"
           }),
@@ -4514,6 +4962,7 @@ var variableIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var videoCameraIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VideoCamera",
+      type_: "Outline",
       children: React.createElement(Outline.VideoCameraIcon, {
             className: "icon"
           }),
@@ -4522,6 +4971,7 @@ var videoCameraIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var viewBoardsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewBoards",
+      type_: "Outline",
       children: React.createElement(Outline.ViewBoardsIcon, {
             className: "icon"
           }),
@@ -4530,6 +4980,7 @@ var viewBoardsIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindin
 
 var viewGridAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewGridAdd",
+      type_: "Outline",
       children: React.createElement(Outline.ViewGridAddIcon, {
             className: "icon"
           }),
@@ -4538,6 +4989,7 @@ var viewGridAddIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindi
 
 var viewGridIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewGrid",
+      type_: "Outline",
       children: React.createElement(Outline.ViewGridIcon, {
             className: "icon"
           }),
@@ -4546,6 +4998,7 @@ var viewGridIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var viewListIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ViewList",
+      type_: "Outline",
       children: React.createElement(Outline.ViewListIcon, {
             className: "icon"
           }),
@@ -4554,6 +5007,7 @@ var viewListIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var volumeOffIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VolumeOff",
+      type_: "Outline",
       children: React.createElement(Outline.VolumeOffIcon, {
             className: "icon"
           }),
@@ -4562,6 +5016,7 @@ var volumeOffIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBinding
 
 var volumeUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "VolumeUp",
+      type_: "Outline",
       children: React.createElement(Outline.VolumeUpIcon, {
             className: "icon"
           }),
@@ -4570,6 +5025,7 @@ var volumeUpIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingD
 
 var wifiIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "Wifi",
+      type_: "Outline",
       children: React.createElement(Outline.WifiIcon, {
             className: "icon"
           }),
@@ -4578,6 +5034,7 @@ var wifiIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.
 
 var xCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "XCircle",
+      type_: "Outline",
       children: React.createElement(Outline.XCircleIcon, {
             className: "icon"
           }),
@@ -4586,6 +5043,7 @@ var xCircleIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDe
 
 var xIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "X",
+      type_: "Outline",
       children: React.createElement(Outline.XIcon, {
             className: "icon"
           }),
@@ -4594,6 +5052,7 @@ var xIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.mak
 
 var zoomInIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ZoomIn",
+      type_: "Outline",
       children: React.createElement(Outline.ZoomInIcon, {
             className: "icon"
           }),
@@ -4602,6 +5061,7 @@ var zoomInIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDem
 
 var zoomOutIcon_Outline = React.createElement(IconBox$RescriptHeroiconsBindingDemo.make, {
       name: "ZoomOut",
+      type_: "Outline",
       children: React.createElement(Outline.ZoomOutIcon, {
             className: "icon"
           }),
